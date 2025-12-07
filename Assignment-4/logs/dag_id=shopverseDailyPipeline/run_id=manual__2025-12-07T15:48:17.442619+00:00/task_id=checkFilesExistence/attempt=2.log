@@ -1,0 +1,24 @@
+[2025-12-07T15:53:22.169+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: shopverseDailyPipeline.checkFilesExistence manual__2025-12-07T15:48:17.442619+00:00 [queued]>
+[2025-12-07T15:53:22.179+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: shopverseDailyPipeline.checkFilesExistence manual__2025-12-07T15:48:17.442619+00:00 [queued]>
+[2025-12-07T15:53:22.180+0000] {taskinstance.py:2170} INFO - Starting attempt 2 of 2
+[2025-12-07T15:53:22.194+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): checkFilesExistence> on 2025-12-07 15:48:17.442619+00:00
+[2025-12-07T15:53:22.200+0000] {standard_task_runner.py:60} INFO - Started process 777 to run task
+[2025-12-07T15:53:22.204+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'shopverseDailyPipeline', 'checkFilesExistence', 'manual__2025-12-07T15:48:17.442619+00:00', '--job-id', '28', '--raw', '--subdir', 'DAGS_FOLDER/shopverseDailyPipeline.py', '--cfg-path', '/tmp/tmpjenso686']
+[2025-12-07T15:53:22.205+0000] {standard_task_runner.py:88} INFO - Job 28: Subtask checkFilesExistence
+[2025-12-07T15:53:22.261+0000] {task_command.py:423} INFO - Running <TaskInstance: shopverseDailyPipeline.checkFilesExistence manual__2025-12-07T15:48:17.442619+00:00 [running]> on host c9a6e462115c
+[2025-12-07T15:53:22.345+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='shopverseDailyPipeline' AIRFLOW_CTX_TASK_ID='checkFilesExistence' AIRFLOW_CTX_EXECUTION_DATE='2025-12-07T15:48:17.442619+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-12-07T15:48:17.442619+00:00'
+[2025-12-07T15:53:22.348+0000] {taskinstance.py:2698} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 433, in _execute_task
+    result = execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 199, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 216, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/shopverseDailyPipeline.py", line 28, in checkFiles
+    raise FileNotFoundError("One or more input files are missing")
+FileNotFoundError: One or more input files are missing
+[2025-12-07T15:53:22.364+0000] {taskinstance.py:1138} INFO - Marking task as FAILED. dag_id=shopverseDailyPipeline, task_id=checkFilesExistence, execution_date=20251207T154817, start_date=20251207T155322, end_date=20251207T155322
+[2025-12-07T15:53:22.380+0000] {standard_task_runner.py:107} ERROR - Failed to execute job 28 for task checkFilesExistence (One or more input files are missing; 777)
+[2025-12-07T15:53:22.428+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2025-12-07T15:53:22.463+0000] {taskinstance.py:3280} INFO - 0 downstream tasks scheduled from follow-on schedule check

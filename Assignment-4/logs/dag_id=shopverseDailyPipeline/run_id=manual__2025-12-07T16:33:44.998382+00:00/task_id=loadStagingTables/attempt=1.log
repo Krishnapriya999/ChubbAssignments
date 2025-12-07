@@ -1,0 +1,29 @@
+[2025-12-07T16:33:49.798+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: shopverseDailyPipeline.loadStagingTables manual__2025-12-07T16:33:44.998382+00:00 [queued]>
+[2025-12-07T16:33:49.812+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: shopverseDailyPipeline.loadStagingTables manual__2025-12-07T16:33:44.998382+00:00 [queued]>
+[2025-12-07T16:33:49.813+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 2
+[2025-12-07T16:33:49.832+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): loadStagingTables> on 2025-12-07 16:33:44.998382+00:00
+[2025-12-07T16:33:49.840+0000] {standard_task_runner.py:60} INFO - Started process 640 to run task
+[2025-12-07T16:33:49.845+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'shopverseDailyPipeline', 'loadStagingTables', 'manual__2025-12-07T16:33:44.998382+00:00', '--job-id', '36', '--raw', '--subdir', 'DAGS_FOLDER/shopverseDailyPipeline.py', '--cfg-path', '/tmp/tmp7ttiifwn']
+[2025-12-07T16:33:49.847+0000] {standard_task_runner.py:88} INFO - Job 36: Subtask loadStagingTables
+[2025-12-07T16:33:49.920+0000] {task_command.py:423} INFO - Running <TaskInstance: shopverseDailyPipeline.loadStagingTables manual__2025-12-07T16:33:44.998382+00:00 [running]> on host 8dc71704cdea
+[2025-12-07T16:33:50.041+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='shopverseDailyPipeline' AIRFLOW_CTX_TASK_ID='loadStagingTables' AIRFLOW_CTX_EXECUTION_DATE='2025-12-07T16:33:44.998382+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-12-07T16:33:44.998382+00:00'
+[2025-12-07T16:33:50.057+0000] {base.py:83} INFO - Using connection ID 'postgresDwh' for task execution.
+[2025-12-07T16:33:50.089+0000] {taskinstance.py:2698} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 433, in _execute_task
+    result = execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 199, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 216, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/shopverseDailyPipeline.py", line 39, in loadStagingTables
+    cursor.execute("""
+psycopg2.errors.UniqueViolation: duplicate key value violates unique constraint "stg_customers_pkey"
+DETAIL:  Key (customer_id)=(1000) already exists.
+
+[2025-12-07T16:33:50.105+0000] {taskinstance.py:1138} INFO - Marking task as UP_FOR_RETRY. dag_id=shopverseDailyPipeline, task_id=loadStagingTables, execution_date=20251207T163344, start_date=20251207T163349, end_date=20251207T163350
+[2025-12-07T16:33:50.124+0000] {standard_task_runner.py:107} ERROR - Failed to execute job 36 for task loadStagingTables (duplicate key value violates unique constraint "stg_customers_pkey"
+DETAIL:  Key (customer_id)=(1000) already exists.
+; 640)
+[2025-12-07T16:33:50.152+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2025-12-07T16:33:50.188+0000] {taskinstance.py:3280} INFO - 0 downstream tasks scheduled from follow-on schedule check

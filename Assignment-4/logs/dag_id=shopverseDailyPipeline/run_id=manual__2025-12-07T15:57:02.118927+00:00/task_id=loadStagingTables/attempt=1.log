@@ -1,0 +1,14 @@
+[2025-12-07T15:57:08.091+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: shopverseDailyPipeline.loadStagingTables manual__2025-12-07T15:57:02.118927+00:00 [queued]>
+[2025-12-07T15:57:08.103+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: shopverseDailyPipeline.loadStagingTables manual__2025-12-07T15:57:02.118927+00:00 [queued]>
+[2025-12-07T15:57:08.104+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 2
+[2025-12-07T15:57:08.125+0000] {taskinstance.py:2191} INFO - Executing <Task(PythonOperator): loadStagingTables> on 2025-12-07 15:57:02.118927+00:00
+[2025-12-07T15:57:08.131+0000] {standard_task_runner.py:60} INFO - Started process 84 to run task
+[2025-12-07T15:57:08.136+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'shopverseDailyPipeline', 'loadStagingTables', 'manual__2025-12-07T15:57:02.118927+00:00', '--job-id', '32', '--raw', '--subdir', 'DAGS_FOLDER/shopverseDailyPipeline.py', '--cfg-path', '/tmp/tmpawqtamiq']
+[2025-12-07T15:57:08.137+0000] {standard_task_runner.py:88} INFO - Job 32: Subtask loadStagingTables
+[2025-12-07T15:57:08.208+0000] {task_command.py:423} INFO - Running <TaskInstance: shopverseDailyPipeline.loadStagingTables manual__2025-12-07T15:57:02.118927+00:00 [running]> on host 8dc71704cdea
+[2025-12-07T15:57:08.320+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='shopverseDailyPipeline' AIRFLOW_CTX_TASK_ID='loadStagingTables' AIRFLOW_CTX_EXECUTION_DATE='2025-12-07T15:57:02.118927+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-12-07T15:57:02.118927+00:00'
+[2025-12-07T15:57:08.336+0000] {base.py:83} INFO - Using connection ID 'postgresDwh' for task execution.
+[2025-12-07T15:57:09.294+0000] {python.py:201} INFO - Done. Returned value was: None
+[2025-12-07T15:57:09.305+0000] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=shopverseDailyPipeline, task_id=loadStagingTables, execution_date=20251207T155702, start_date=20251207T155708, end_date=20251207T155709
+[2025-12-07T15:57:09.354+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2025-12-07T15:57:09.398+0000] {taskinstance.py:3280} INFO - 1 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,5002 @@
+[
+  {
+    "order_id": 9000,
+    "order_timestamp": "2025-01-01T18:56:00",
+    "customer_id": 1233,
+    "product_id": 970,
+    "quantity": 2,
+    "total_amount": 930.94,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9001,
+    "order_timestamp": "2025-01-01T16:52:00",
+    "customer_id": 1246,
+    "product_id": 691,
+    "quantity": 4,
+    "total_amount": 1841.48,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9002,
+    "order_timestamp": "2025-01-01T08:55:00",
+    "customer_id": 1245,
+    "product_id": 772,
+    "quantity": 5,
+    "total_amount": 2359.2,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9003,
+    "order_timestamp": "2025-01-01T09:34:00",
+    "customer_id": 1466,
+    "product_id": 911,
+    "quantity": 1,
+    "total_amount": 184.84,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9004,
+    "order_timestamp": "2025-01-01T21:02:00",
+    "customer_id": 1297,
+    "product_id": 583,
+    "quantity": 1,
+    "total_amount": 192.21,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9005,
+    "order_timestamp": "2025-01-01T14:15:00",
+    "customer_id": 1146,
+    "product_id": 714,
+    "quantity": 1,
+    "total_amount": 85.38,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9006,
+    "order_timestamp": "2025-01-01T05:38:00",
+    "customer_id": 1240,
+    "product_id": 532,
+    "quantity": 3,
+    "total_amount": 1451.4,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9007,
+    "order_timestamp": "2025-01-01T12:57:00",
+    "customer_id": 1219,
+    "product_id": 836,
+    "quantity": 5,
+    "total_amount": 1713.45,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9008,
+    "order_timestamp": "2025-01-01T02:01:00",
+    "customer_id": 1201,
+    "product_id": 806,
+    "quantity": 1,
+    "total_amount": 140.68,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9009,
+    "order_timestamp": "2025-01-01T20:32:00",
+    "customer_id": 1227,
+    "product_id": 839,
+    "quantity": 3,
+    "total_amount": 197.07,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9010,
+    "order_timestamp": "2025-01-01T05:12:00",
+    "customer_id": 1073,
+    "product_id": 578,
+    "quantity": 3,
+    "total_amount": 1109.01,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9011,
+    "order_timestamp": "2025-01-01T06:40:00",
+    "customer_id": 1146,
+    "product_id": 691,
+    "quantity": 5,
+    "total_amount": 2301.85,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9012,
+    "order_timestamp": "2025-01-01T07:49:00",
+    "customer_id": 1286,
+    "product_id": 854,
+    "quantity": 3,
+    "total_amount": 872.55,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9013,
+    "order_timestamp": "2025-01-01T03:16:00",
+    "customer_id": 1126,
+    "product_id": 667,
+    "quantity": 2,
+    "total_amount": 111.64,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9014,
+    "order_timestamp": "2025-01-01T22:20:00",
+    "customer_id": 1393,
+    "product_id": 504,
+    "quantity": 2,
+    "total_amount": 837.36,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9015,
+    "order_timestamp": "2025-01-01T09:12:00",
+    "customer_id": 1223,
+    "product_id": 954,
+    "quantity": 5,
+    "total_amount": 286.05,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9016,
+    "order_timestamp": "2025-01-01T21:30:00",
+    "customer_id": 1436,
+    "product_id": 886,
+    "quantity": 4,
+    "total_amount": 433.8,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9017,
+    "order_timestamp": "2025-01-01T00:13:00",
+    "customer_id": 1006,
+    "product_id": 678,
+    "quantity": 5,
+    "total_amount": 983.05,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9018,
+    "order_timestamp": "2025-01-01T04:39:00",
+    "customer_id": 1208,
+    "product_id": 947,
+    "quantity": 2,
+    "total_amount": 408.3,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9019,
+    "order_timestamp": "2025-01-01T00:54:00",
+    "customer_id": 1128,
+    "product_id": 933,
+    "quantity": 3,
+    "total_amount": 1024.08,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9020,
+    "order_timestamp": "2025-01-01T22:46:00",
+    "customer_id": 1228,
+    "product_id": 739,
+    "quantity": 2,
+    "total_amount": 615.88,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9021,
+    "order_timestamp": "2025-01-01T08:49:00",
+    "customer_id": 1005,
+    "product_id": 566,
+    "quantity": 2,
+    "total_amount": 758.5,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9022,
+    "order_timestamp": "2025-01-01T22:47:00",
+    "customer_id": 1157,
+    "product_id": 530,
+    "quantity": 3,
+    "total_amount": 80.49,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9023,
+    "order_timestamp": "2025-01-01T21:16:00",
+    "customer_id": 1461,
+    "product_id": 935,
+    "quantity": 2,
+    "total_amount": 893.44,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9024,
+    "order_timestamp": "2025-01-01T12:40:00",
+    "customer_id": 1101,
+    "product_id": 617,
+    "quantity": 2,
+    "total_amount": 463.92,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9025,
+    "order_timestamp": "2025-01-01T12:33:00",
+    "customer_id": 1452,
+    "product_id": 695,
+    "quantity": 5,
+    "total_amount": 1826.35,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9026,
+    "order_timestamp": "2025-01-01T12:30:00",
+    "customer_id": 1035,
+    "product_id": 795,
+    "quantity": 2,
+    "total_amount": 670.46,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9027,
+    "order_timestamp": "2025-01-01T04:17:00",
+    "customer_id": 1058,
+    "product_id": 735,
+    "quantity": 5,
+    "total_amount": 33.55,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9028,
+    "order_timestamp": "2025-01-01T12:01:00",
+    "customer_id": 1013,
+    "product_id": 961,
+    "quantity": 5,
+    "total_amount": 201.4,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9029,
+    "order_timestamp": "2025-01-01T10:08:00",
+    "customer_id": 1000,
+    "product_id": 886,
+    "quantity": 1,
+    "total_amount": 108.45,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9030,
+    "order_timestamp": "2025-01-01T05:47:00",
+    "customer_id": 1431,
+    "product_id": 538,
+    "quantity": 2,
+    "total_amount": 216.28,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9031,
+    "order_timestamp": "2025-01-01T04:55:00",
+    "customer_id": 1096,
+    "product_id": 796,
+    "quantity": 3,
+    "total_amount": 573.6,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9032,
+    "order_timestamp": "2025-01-01T15:46:00",
+    "customer_id": 1437,
+    "product_id": 678,
+    "quantity": 1,
+    "total_amount": 196.61,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9033,
+    "order_timestamp": "2025-01-01T04:36:00",
+    "customer_id": 1390,
+    "product_id": 809,
+    "quantity": 5,
+    "total_amount": 430.5,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9034,
+    "order_timestamp": "2025-01-01T20:38:00",
+    "customer_id": 1427,
+    "product_id": 850,
+    "quantity": 5,
+    "total_amount": 2027.35,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9035,
+    "order_timestamp": "2025-01-01T11:58:00",
+    "customer_id": 1499,
+    "product_id": 962,
+    "quantity": 4,
+    "total_amount": 1410.08,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9036,
+    "order_timestamp": "2025-01-01T04:35:00",
+    "customer_id": 1095,
+    "product_id": 891,
+    "quantity": 4,
+    "total_amount": 755.64,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9037,
+    "order_timestamp": "2025-01-01T13:54:00",
+    "customer_id": 1213,
+    "product_id": 795,
+    "quantity": 1,
+    "total_amount": 335.23,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9038,
+    "order_timestamp": "2025-01-01T11:05:00",
+    "customer_id": 1170,
+    "product_id": 771,
+    "quantity": 2,
+    "total_amount": 408.08,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9039,
+    "order_timestamp": "2025-01-01T18:21:00",
+    "customer_id": 1193,
+    "product_id": 631,
+    "quantity": 3,
+    "total_amount": 1143.24,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9040,
+    "order_timestamp": "2025-01-01T17:57:00",
+    "customer_id": 1254,
+    "product_id": 833,
+    "quantity": 2,
+    "total_amount": 95.84,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9041,
+    "order_timestamp": "2025-01-01T22:10:00",
+    "customer_id": 1250,
+    "product_id": 709,
+    "quantity": 5,
+    "total_amount": 387.7,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9042,
+    "order_timestamp": "2025-01-01T16:39:00",
+    "customer_id": 1480,
+    "product_id": 532,
+    "quantity": 1,
+    "total_amount": 483.8,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9043,
+    "order_timestamp": "2025-01-01T16:17:00",
+    "customer_id": 1187,
+    "product_id": 649,
+    "quantity": 4,
+    "total_amount": 798.84,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9044,
+    "order_timestamp": "2025-01-01T21:21:00",
+    "customer_id": 1469,
+    "product_id": 940,
+    "quantity": 1,
+    "total_amount": 313.44,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9045,
+    "order_timestamp": "2025-01-01T10:12:00",
+    "customer_id": 1459,
+    "product_id": 583,
+    "quantity": 1,
+    "total_amount": 192.21,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9046,
+    "order_timestamp": "2025-01-01T21:34:00",
+    "customer_id": 1028,
+    "product_id": 546,
+    "quantity": 4,
+    "total_amount": 1024.52,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9047,
+    "order_timestamp": "2025-01-01T14:03:00",
+    "customer_id": 1072,
+    "product_id": 966,
+    "quantity": 3,
+    "total_amount": 1024.62,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9048,
+    "order_timestamp": "2025-01-01T09:01:00",
+    "customer_id": 1334,
+    "product_id": 585,
+    "quantity": 1,
+    "total_amount": 228.6,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9049,
+    "order_timestamp": "2025-01-01T23:37:00",
+    "customer_id": 1147,
+    "product_id": 690,
+    "quantity": 1,
+    "total_amount": 76.37,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9050,
+    "order_timestamp": "2025-01-01T15:17:00",
+    "customer_id": 1309,
+    "product_id": 818,
+    "quantity": 1,
+    "total_amount": 203.3,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9051,
+    "order_timestamp": "2025-01-01T23:32:00",
+    "customer_id": 1143,
+    "product_id": 884,
+    "quantity": 1,
+    "total_amount": 301.71,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9052,
+    "order_timestamp": "2025-01-01T10:53:00",
+    "customer_id": 1203,
+    "product_id": 863,
+    "quantity": 2,
+    "total_amount": 146.04,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9053,
+    "order_timestamp": "2025-01-01T02:08:00",
+    "customer_id": 1262,
+    "product_id": 837,
+    "quantity": 1,
+    "total_amount": 366.04,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9054,
+    "order_timestamp": "2025-01-01T10:22:00",
+    "customer_id": 1186,
+    "product_id": 787,
+    "quantity": 1,
+    "total_amount": 58.57,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9055,
+    "order_timestamp": "2025-01-01T19:50:00",
+    "customer_id": 1328,
+    "product_id": 956,
+    "quantity": 3,
+    "total_amount": 229.77,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9056,
+    "order_timestamp": "2025-01-01T07:27:00",
+    "customer_id": 1280,
+    "product_id": 689,
+    "quantity": 4,
+    "total_amount": 1846.64,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9057,
+    "order_timestamp": "2025-01-01T20:19:00",
+    "customer_id": 1107,
+    "product_id": 581,
+    "quantity": 1,
+    "total_amount": 45.79,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9058,
+    "order_timestamp": "2025-01-01T07:11:00",
+    "customer_id": 1427,
+    "product_id": 988,
+    "quantity": 3,
+    "total_amount": 615.3,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9059,
+    "order_timestamp": "2025-01-01T16:41:00",
+    "customer_id": 1048,
+    "product_id": 587,
+    "quantity": 5,
+    "total_amount": 1914.8,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9060,
+    "order_timestamp": "2025-01-01T09:54:00",
+    "customer_id": 1039,
+    "product_id": 694,
+    "quantity": 3,
+    "total_amount": 200.55,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9061,
+    "order_timestamp": "2025-01-01T22:25:00",
+    "customer_id": 1109,
+    "product_id": 565,
+    "quantity": 1,
+    "total_amount": 21.24,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9062,
+    "order_timestamp": "2025-01-01T18:09:00",
+    "customer_id": 1092,
+    "product_id": 533,
+    "quantity": 3,
+    "total_amount": 605.37,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9063,
+    "order_timestamp": "2025-01-01T07:03:00",
+    "customer_id": 1404,
+    "product_id": 959,
+    "quantity": 1,
+    "total_amount": 11.73,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9064,
+    "order_timestamp": "2025-01-01T11:22:00",
+    "customer_id": 1417,
+    "product_id": 841,
+    "quantity": 2,
+    "total_amount": 501.46,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9065,
+    "order_timestamp": "2025-01-01T05:53:00",
+    "customer_id": 1352,
+    "product_id": 769,
+    "quantity": 5,
+    "total_amount": 1427.85,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9066,
+    "order_timestamp": "2025-01-01T19:12:00",
+    "customer_id": 1168,
+    "product_id": 901,
+    "quantity": 4,
+    "total_amount": 1997.04,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9067,
+    "order_timestamp": "2025-01-01T07:41:00",
+    "customer_id": 1073,
+    "product_id": 918,
+    "quantity": 2,
+    "total_amount": 128.6,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9068,
+    "order_timestamp": "2025-01-01T20:42:00",
+    "customer_id": 1229,
+    "product_id": 900,
+    "quantity": 4,
+    "total_amount": 1227.04,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9069,
+    "order_timestamp": "2025-01-01T22:22:00",
+    "customer_id": 1035,
+    "product_id": 959,
+    "quantity": 1,
+    "total_amount": 11.73,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9070,
+    "order_timestamp": "2025-01-01T10:53:00",
+    "customer_id": 1488,
+    "product_id": 990,
+    "quantity": 2,
+    "total_amount": 390.86,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9071,
+    "order_timestamp": "2025-01-01T05:47:00",
+    "customer_id": 1072,
+    "product_id": 519,
+    "quantity": 5,
+    "total_amount": 679.05,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9072,
+    "order_timestamp": "2025-01-01T20:59:00",
+    "customer_id": 1402,
+    "product_id": 625,
+    "quantity": 1,
+    "total_amount": 304.44,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9073,
+    "order_timestamp": "2025-01-01T16:44:00",
+    "customer_id": 1366,
+    "product_id": 597,
+    "quantity": 2,
+    "total_amount": 234.02,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9074,
+    "order_timestamp": "2025-01-01T06:01:00",
+    "customer_id": 1365,
+    "product_id": 975,
+    "quantity": 1,
+    "total_amount": 15.08,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9075,
+    "order_timestamp": "2025-01-01T09:02:00",
+    "customer_id": 1460,
+    "product_id": 646,
+    "quantity": 4,
+    "total_amount": 1044.04,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9076,
+    "order_timestamp": "2025-01-01T10:56:00",
+    "customer_id": 1385,
+    "product_id": 575,
+    "quantity": 4,
+    "total_amount": 1572.92,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9077,
+    "order_timestamp": "2025-01-01T19:18:00",
+    "customer_id": 1026,
+    "product_id": 609,
+    "quantity": 1,
+    "total_amount": 445.07,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9078,
+    "order_timestamp": "2025-01-01T17:11:00",
+    "customer_id": 1222,
+    "product_id": 798,
+    "quantity": 2,
+    "total_amount": 869.06,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9079,
+    "order_timestamp": "2025-01-01T21:15:00",
+    "customer_id": 1462,
+    "product_id": 651,
+    "quantity": 1,
+    "total_amount": 370.15,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9080,
+    "order_timestamp": "2025-01-01T21:45:00",
+    "customer_id": 1470,
+    "product_id": 576,
+    "quantity": 3,
+    "total_amount": 762.06,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9081,
+    "order_timestamp": "2025-01-01T23:07:00",
+    "customer_id": 1453,
+    "product_id": 768,
+    "quantity": 3,
+    "total_amount": 1245.36,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9082,
+    "order_timestamp": "2025-01-01T00:06:00",
+    "customer_id": 1267,
+    "product_id": 884,
+    "quantity": 2,
+    "total_amount": 603.42,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9083,
+    "order_timestamp": "2025-01-01T11:59:00",
+    "customer_id": 1198,
+    "product_id": 526,
+    "quantity": 2,
+    "total_amount": 628.64,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9084,
+    "order_timestamp": "2025-01-01T15:54:00",
+    "customer_id": 1425,
+    "product_id": 860,
+    "quantity": 4,
+    "total_amount": 1081.92,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9085,
+    "order_timestamp": "2025-01-01T14:32:00",
+    "customer_id": 1261,
+    "product_id": 792,
+    "quantity": 3,
+    "total_amount": 727.71,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9086,
+    "order_timestamp": "2025-01-01T00:17:00",
+    "customer_id": 1075,
+    "product_id": 613,
+    "quantity": 2,
+    "total_amount": 210.14,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9087,
+    "order_timestamp": "2025-01-01T08:35:00",
+    "customer_id": 1453,
+    "product_id": 874,
+    "quantity": 4,
+    "total_amount": 1358.44,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9088,
+    "order_timestamp": "2025-01-01T00:18:00",
+    "customer_id": 1316,
+    "product_id": 666,
+    "quantity": 4,
+    "total_amount": 855.76,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9089,
+    "order_timestamp": "2025-01-01T22:55:00",
+    "customer_id": 1272,
+    "product_id": 533,
+    "quantity": 2,
+    "total_amount": 403.58,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9090,
+    "order_timestamp": "2025-01-01T03:34:00",
+    "customer_id": 1456,
+    "product_id": 770,
+    "quantity": 3,
+    "total_amount": 683.61,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9091,
+    "order_timestamp": "2025-01-01T11:45:00",
+    "customer_id": 1210,
+    "product_id": 793,
+    "quantity": 2,
+    "total_amount": 696.96,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9092,
+    "order_timestamp": "2025-01-01T08:14:00",
+    "customer_id": 1165,
+    "product_id": 719,
+    "quantity": 5,
+    "total_amount": 1793.55,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9093,
+    "order_timestamp": "2025-01-01T23:43:00",
+    "customer_id": 1164,
+    "product_id": 675,
+    "quantity": 4,
+    "total_amount": 441.64,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9094,
+    "order_timestamp": "2025-01-01T21:03:00",
+    "customer_id": 1272,
+    "product_id": 836,
+    "quantity": 3,
+    "total_amount": 1028.07,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9095,
+    "order_timestamp": "2025-01-01T03:26:00",
+    "customer_id": 1252,
+    "product_id": 585,
+    "quantity": 5,
+    "total_amount": 1143.0,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9096,
+    "order_timestamp": "2025-01-01T01:44:00",
+    "customer_id": 1402,
+    "product_id": 771,
+    "quantity": 5,
+    "total_amount": 1020.2,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9097,
+    "order_timestamp": "2025-01-01T06:00:00",
+    "customer_id": 1016,
+    "product_id": 917,
+    "quantity": 4,
+    "total_amount": 421.6,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9098,
+    "order_timestamp": "2025-01-01T08:55:00",
+    "customer_id": 1288,
+    "product_id": 563,
+    "quantity": 4,
+    "total_amount": 1561.72,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9099,
+    "order_timestamp": "2025-01-01T20:40:00",
+    "customer_id": 1021,
+    "product_id": 560,
+    "quantity": 3,
+    "total_amount": 1232.61,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9100,
+    "order_timestamp": "2025-01-01T18:55:00",
+    "customer_id": 1417,
+    "product_id": 736,
+    "quantity": 4,
+    "total_amount": 1377.64,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9101,
+    "order_timestamp": "2025-01-01T09:24:00",
+    "customer_id": 1019,
+    "product_id": 569,
+    "quantity": 1,
+    "total_amount": 296.72,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9102,
+    "order_timestamp": "2025-01-01T00:01:00",
+    "customer_id": 1473,
+    "product_id": 880,
+    "quantity": 1,
+    "total_amount": 485.01,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9103,
+    "order_timestamp": "2025-01-01T17:17:00",
+    "customer_id": 1153,
+    "product_id": 547,
+    "quantity": 3,
+    "total_amount": 1426.32,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9104,
+    "order_timestamp": "2025-01-01T10:29:00",
+    "customer_id": 1203,
+    "product_id": 917,
+    "quantity": 1,
+    "total_amount": 105.4,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9105,
+    "order_timestamp": "2025-01-01T18:51:00",
+    "customer_id": 1059,
+    "product_id": 868,
+    "quantity": 3,
+    "total_amount": 1346.82,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9106,
+    "order_timestamp": "2025-01-01T00:45:00",
+    "customer_id": 1319,
+    "product_id": 939,
+    "quantity": 3,
+    "total_amount": 1086.99,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9107,
+    "order_timestamp": "2025-01-01T20:53:00",
+    "customer_id": 1342,
+    "product_id": 902,
+    "quantity": 4,
+    "total_amount": 1879.4,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9108,
+    "order_timestamp": "2025-01-01T12:34:00",
+    "customer_id": 1182,
+    "product_id": 707,
+    "quantity": 2,
+    "total_amount": 137.84,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9109,
+    "order_timestamp": "2025-01-01T16:03:00",
+    "customer_id": 1444,
+    "product_id": 971,
+    "quantity": 1,
+    "total_amount": 315.08,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9110,
+    "order_timestamp": "2025-01-01T18:20:00",
+    "customer_id": 1163,
+    "product_id": 692,
+    "quantity": 1,
+    "total_amount": 208.51,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9111,
+    "order_timestamp": "2025-01-01T04:16:00",
+    "customer_id": 1378,
+    "product_id": 913,
+    "quantity": 4,
+    "total_amount": 55.56,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9112,
+    "order_timestamp": "2025-01-01T14:59:00",
+    "customer_id": 1014,
+    "product_id": 808,
+    "quantity": 3,
+    "total_amount": 611.52,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9113,
+    "order_timestamp": "2025-01-01T19:17:00",
+    "customer_id": 1093,
+    "product_id": 977,
+    "quantity": 4,
+    "total_amount": 827.76,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9114,
+    "order_timestamp": "2025-01-01T08:38:00",
+    "customer_id": 1495,
+    "product_id": 537,
+    "quantity": 2,
+    "total_amount": 639.58,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9115,
+    "order_timestamp": "2025-01-01T18:38:00",
+    "customer_id": 1216,
+    "product_id": 594,
+    "quantity": 2,
+    "total_amount": 745.98,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9116,
+    "order_timestamp": "2025-01-01T11:21:00",
+    "customer_id": 1361,
+    "product_id": 561,
+    "quantity": 5,
+    "total_amount": 1173.15,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9117,
+    "order_timestamp": "2025-01-01T09:51:00",
+    "customer_id": 1107,
+    "product_id": 895,
+    "quantity": 4,
+    "total_amount": 1221.96,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9118,
+    "order_timestamp": "2025-01-01T22:06:00",
+    "customer_id": 1330,
+    "product_id": 887,
+    "quantity": 5,
+    "total_amount": 164.95,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9119,
+    "order_timestamp": "2025-01-01T05:51:00",
+    "customer_id": 1145,
+    "product_id": 940,
+    "quantity": 4,
+    "total_amount": 1253.76,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9120,
+    "order_timestamp": "2025-01-01T10:53:00",
+    "customer_id": 1013,
+    "product_id": 720,
+    "quantity": 1,
+    "total_amount": 471.85,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9121,
+    "order_timestamp": "2025-01-01T23:19:00",
+    "customer_id": 1370,
+    "product_id": 818,
+    "quantity": 5,
+    "total_amount": 1016.5,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9122,
+    "order_timestamp": "2025-01-01T11:21:00",
+    "customer_id": 1068,
+    "product_id": 578,
+    "quantity": 4,
+    "total_amount": 1478.68,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9123,
+    "order_timestamp": "2025-01-01T03:39:00",
+    "customer_id": 1017,
+    "product_id": 911,
+    "quantity": 1,
+    "total_amount": 184.84,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9124,
+    "order_timestamp": "2025-01-01T11:03:00",
+    "customer_id": 1351,
+    "product_id": 931,
+    "quantity": 4,
+    "total_amount": 941.64,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9125,
+    "order_timestamp": "2025-01-01T15:21:00",
+    "customer_id": 1060,
+    "product_id": 926,
+    "quantity": 3,
+    "total_amount": 168.48,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9126,
+    "order_timestamp": "2025-01-01T15:45:00",
+    "customer_id": 1414,
+    "product_id": 804,
+    "quantity": 1,
+    "total_amount": 110.64,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9127,
+    "order_timestamp": "2025-01-01T03:35:00",
+    "customer_id": 1380,
+    "product_id": 835,
+    "quantity": 2,
+    "total_amount": 945.16,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9128,
+    "order_timestamp": "2025-01-01T20:09:00",
+    "customer_id": 1174,
+    "product_id": 915,
+    "quantity": 4,
+    "total_amount": 1700.36,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9129,
+    "order_timestamp": "2025-01-01T04:56:00",
+    "customer_id": 1463,
+    "product_id": 764,
+    "quantity": 4,
+    "total_amount": 1555.36,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9130,
+    "order_timestamp": "2025-01-01T06:19:00",
+    "customer_id": 1271,
+    "product_id": 717,
+    "quantity": 3,
+    "total_amount": 959.07,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9131,
+    "order_timestamp": "2025-01-01T15:04:00",
+    "customer_id": 1136,
+    "product_id": 765,
+    "quantity": 1,
+    "total_amount": 180.38,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9132,
+    "order_timestamp": "2025-01-01T23:25:00",
+    "customer_id": 1037,
+    "product_id": 512,
+    "quantity": 1,
+    "total_amount": 12.07,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9133,
+    "order_timestamp": "2025-01-01T21:30:00",
+    "customer_id": 1175,
+    "product_id": 504,
+    "quantity": 5,
+    "total_amount": 2093.4,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9134,
+    "order_timestamp": "2025-01-01T04:45:00",
+    "customer_id": 1385,
+    "product_id": 932,
+    "quantity": 1,
+    "total_amount": 315.83,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9135,
+    "order_timestamp": "2025-01-01T09:48:00",
+    "customer_id": 1142,
+    "product_id": 845,
+    "quantity": 3,
+    "total_amount": 758.97,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9136,
+    "order_timestamp": "2025-01-01T15:10:00",
+    "customer_id": 1329,
+    "product_id": 528,
+    "quantity": 4,
+    "total_amount": 592.68,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9137,
+    "order_timestamp": "2025-01-01T02:51:00",
+    "customer_id": 1346,
+    "product_id": 603,
+    "quantity": 3,
+    "total_amount": 1259.46,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9138,
+    "order_timestamp": "2025-01-01T08:30:00",
+    "customer_id": 1242,
+    "product_id": 918,
+    "quantity": 4,
+    "total_amount": 257.2,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9139,
+    "order_timestamp": "2025-01-01T13:04:00",
+    "customer_id": 1487,
+    "product_id": 553,
+    "quantity": 5,
+    "total_amount": 1800.25,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9140,
+    "order_timestamp": "2025-01-01T07:45:00",
+    "customer_id": 1476,
+    "product_id": 532,
+    "quantity": 2,
+    "total_amount": 967.6,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9141,
+    "order_timestamp": "2025-01-01T04:42:00",
+    "customer_id": 1019,
+    "product_id": 954,
+    "quantity": 4,
+    "total_amount": 228.84,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9142,
+    "order_timestamp": "2025-01-01T12:29:00",
+    "customer_id": 1411,
+    "product_id": 794,
+    "quantity": 3,
+    "total_amount": 1444.77,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9143,
+    "order_timestamp": "2025-01-01T22:53:00",
+    "customer_id": 1233,
+    "product_id": 923,
+    "quantity": 4,
+    "total_amount": 1735.68,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9144,
+    "order_timestamp": "2025-01-01T02:51:00",
+    "customer_id": 1057,
+    "product_id": 782,
+    "quantity": 5,
+    "total_amount": 616.95,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9145,
+    "order_timestamp": "2025-01-01T22:24:00",
+    "customer_id": 1210,
+    "product_id": 746,
+    "quantity": 1,
+    "total_amount": 239.25,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9146,
+    "order_timestamp": "2025-01-01T07:51:00",
+    "customer_id": 1208,
+    "product_id": 950,
+    "quantity": 3,
+    "total_amount": 547.47,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9147,
+    "order_timestamp": "2025-01-01T09:09:00",
+    "customer_id": 1052,
+    "product_id": 687,
+    "quantity": 4,
+    "total_amount": 251.6,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9148,
+    "order_timestamp": "2025-01-01T00:27:00",
+    "customer_id": 1489,
+    "product_id": 706,
+    "quantity": 1,
+    "total_amount": 158.71,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9149,
+    "order_timestamp": "2025-01-01T20:16:00",
+    "customer_id": 1108,
+    "product_id": 743,
+    "quantity": 1,
+    "total_amount": 475.05,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9150,
+    "order_timestamp": "2025-01-01T15:46:00",
+    "customer_id": 1043,
+    "product_id": 820,
+    "quantity": 1,
+    "total_amount": 376.02,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9151,
+    "order_timestamp": "2025-01-01T11:28:00",
+    "customer_id": 1246,
+    "product_id": 842,
+    "quantity": 3,
+    "total_amount": 656.94,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9152,
+    "order_timestamp": "2025-01-01T22:21:00",
+    "customer_id": 1074,
+    "product_id": 730,
+    "quantity": 3,
+    "total_amount": 376.26,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9153,
+    "order_timestamp": "2025-01-01T06:39:00",
+    "customer_id": 1469,
+    "product_id": 666,
+    "quantity": 2,
+    "total_amount": 427.88,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9154,
+    "order_timestamp": "2025-01-01T23:50:00",
+    "customer_id": 1339,
+    "product_id": 740,
+    "quantity": 5,
+    "total_amount": 932.7,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9155,
+    "order_timestamp": "2025-01-01T02:12:00",
+    "customer_id": 1355,
+    "product_id": 568,
+    "quantity": 4,
+    "total_amount": 1255.44,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9156,
+    "order_timestamp": "2025-01-01T14:31:00",
+    "customer_id": 1264,
+    "product_id": 704,
+    "quantity": 3,
+    "total_amount": 1005.75,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9157,
+    "order_timestamp": "2025-01-01T09:42:00",
+    "customer_id": 1359,
+    "product_id": 558,
+    "quantity": 5,
+    "total_amount": 2469.6,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9158,
+    "order_timestamp": "2025-01-01T18:16:00",
+    "customer_id": 1200,
+    "product_id": 862,
+    "quantity": 2,
+    "total_amount": 772.0,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9159,
+    "order_timestamp": "2025-01-01T04:12:00",
+    "customer_id": 1493,
+    "product_id": 952,
+    "quantity": 1,
+    "total_amount": 350.62,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9160,
+    "order_timestamp": "2025-01-01T18:14:00",
+    "customer_id": 1200,
+    "product_id": 743,
+    "quantity": 3,
+    "total_amount": 1425.15,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9161,
+    "order_timestamp": "2025-01-01T07:19:00",
+    "customer_id": 1052,
+    "product_id": 850,
+    "quantity": 4,
+    "total_amount": 1621.88,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9162,
+    "order_timestamp": "2025-01-01T13:36:00",
+    "customer_id": 1136,
+    "product_id": 920,
+    "quantity": 2,
+    "total_amount": 741.68,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9163,
+    "order_timestamp": "2025-01-01T13:03:00",
+    "customer_id": 1087,
+    "product_id": 683,
+    "quantity": 5,
+    "total_amount": 618.6,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9164,
+    "order_timestamp": "2025-01-01T16:35:00",
+    "customer_id": 1032,
+    "product_id": 639,
+    "quantity": 3,
+    "total_amount": 456.87,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9165,
+    "order_timestamp": "2025-01-01T15:36:00",
+    "customer_id": 1262,
+    "product_id": 842,
+    "quantity": 1,
+    "total_amount": 218.98,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9166,
+    "order_timestamp": "2025-01-01T22:54:00",
+    "customer_id": 1365,
+    "product_id": 740,
+    "quantity": 5,
+    "total_amount": 932.7,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9167,
+    "order_timestamp": "2025-01-01T11:47:00",
+    "customer_id": 1429,
+    "product_id": 733,
+    "quantity": 2,
+    "total_amount": 92.58,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9168,
+    "order_timestamp": "2025-01-01T04:01:00",
+    "customer_id": 1064,
+    "product_id": 675,
+    "quantity": 5,
+    "total_amount": 552.05,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9169,
+    "order_timestamp": "2025-01-01T07:38:00",
+    "customer_id": 1101,
+    "product_id": 986,
+    "quantity": 5,
+    "total_amount": 607.35,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9170,
+    "order_timestamp": "2025-01-01T16:06:00",
+    "customer_id": 1148,
+    "product_id": 856,
+    "quantity": 5,
+    "total_amount": 1918.5,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9171,
+    "order_timestamp": "2025-01-01T13:17:00",
+    "customer_id": 1101,
+    "product_id": 909,
+    "quantity": 1,
+    "total_amount": 55.92,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9172,
+    "order_timestamp": "2025-01-01T20:59:00",
+    "customer_id": 1477,
+    "product_id": 988,
+    "quantity": 2,
+    "total_amount": 410.2,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9173,
+    "order_timestamp": "2025-01-01T15:07:00",
+    "customer_id": 1056,
+    "product_id": 806,
+    "quantity": 1,
+    "total_amount": 140.68,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9174,
+    "order_timestamp": "2025-01-01T20:17:00",
+    "customer_id": 1264,
+    "product_id": 942,
+    "quantity": 2,
+    "total_amount": 442.64,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9175,
+    "order_timestamp": "2025-01-01T02:48:00",
+    "customer_id": 1206,
+    "product_id": 797,
+    "quantity": 1,
+    "total_amount": 210.06,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9176,
+    "order_timestamp": "2025-01-01T06:43:00",
+    "customer_id": 1389,
+    "product_id": 885,
+    "quantity": 3,
+    "total_amount": 1041.93,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9177,
+    "order_timestamp": "2025-01-01T21:47:00",
+    "customer_id": 1211,
+    "product_id": 787,
+    "quantity": 4,
+    "total_amount": 234.28,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9178,
+    "order_timestamp": "2025-01-01T23:46:00",
+    "customer_id": 1207,
+    "product_id": 607,
+    "quantity": 1,
+    "total_amount": 434.62,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9179,
+    "order_timestamp": "2025-01-01T02:40:00",
+    "customer_id": 1057,
+    "product_id": 663,
+    "quantity": 2,
+    "total_amount": 294.4,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9180,
+    "order_timestamp": "2025-01-01T11:20:00",
+    "customer_id": 1287,
+    "product_id": 637,
+    "quantity": 1,
+    "total_amount": 43.03,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9181,
+    "order_timestamp": "2025-01-01T12:18:00",
+    "customer_id": 1128,
+    "product_id": 593,
+    "quantity": 1,
+    "total_amount": 301.33,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9182,
+    "order_timestamp": "2025-01-01T18:36:00",
+    "customer_id": 1279,
+    "product_id": 686,
+    "quantity": 2,
+    "total_amount": 903.32,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9183,
+    "order_timestamp": "2025-01-01T13:08:00",
+    "customer_id": 1264,
+    "product_id": 792,
+    "quantity": 2,
+    "total_amount": 485.14,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9184,
+    "order_timestamp": "2025-01-01T02:52:00",
+    "customer_id": 1109,
+    "product_id": 669,
+    "quantity": 1,
+    "total_amount": 355.89,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9185,
+    "order_timestamp": "2025-01-01T14:35:00",
+    "customer_id": 1424,
+    "product_id": 818,
+    "quantity": 3,
+    "total_amount": 609.9,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9186,
+    "order_timestamp": "2025-01-01T17:10:00",
+    "customer_id": 1243,
+    "product_id": 901,
+    "quantity": 3,
+    "total_amount": 1497.78,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9187,
+    "order_timestamp": "2025-01-01T07:05:00",
+    "customer_id": 1455,
+    "product_id": 988,
+    "quantity": 1,
+    "total_amount": 205.1,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9188,
+    "order_timestamp": "2025-01-01T09:56:00",
+    "customer_id": 1086,
+    "product_id": 605,
+    "quantity": 1,
+    "total_amount": 224.34,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9189,
+    "order_timestamp": "2025-01-01T19:17:00",
+    "customer_id": 1111,
+    "product_id": 985,
+    "quantity": 4,
+    "total_amount": 1781.32,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9190,
+    "order_timestamp": "2025-01-01T04:04:00",
+    "customer_id": 1082,
+    "product_id": 927,
+    "quantity": 2,
+    "total_amount": 378.14,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9191,
+    "order_timestamp": "2025-01-01T17:41:00",
+    "customer_id": 1219,
+    "product_id": 800,
+    "quantity": 2,
+    "total_amount": 450.62,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9192,
+    "order_timestamp": "2025-01-01T12:16:00",
+    "customer_id": 1417,
+    "product_id": 823,
+    "quantity": 4,
+    "total_amount": 907.56,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9193,
+    "order_timestamp": "2025-01-01T06:50:00",
+    "customer_id": 1340,
+    "product_id": 928,
+    "quantity": 2,
+    "total_amount": 642.34,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9194,
+    "order_timestamp": "2025-01-01T19:44:00",
+    "customer_id": 1420,
+    "product_id": 774,
+    "quantity": 3,
+    "total_amount": 1290.36,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9195,
+    "order_timestamp": "2025-01-01T17:14:00",
+    "customer_id": 1135,
+    "product_id": 582,
+    "quantity": 3,
+    "total_amount": 1385.28,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9196,
+    "order_timestamp": "2025-01-01T12:35:00",
+    "customer_id": 1317,
+    "product_id": 634,
+    "quantity": 5,
+    "total_amount": 2087.05,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9197,
+    "order_timestamp": "2025-01-01T11:46:00",
+    "customer_id": 1451,
+    "product_id": 940,
+    "quantity": 3,
+    "total_amount": 940.32,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9198,
+    "order_timestamp": "2025-01-01T02:07:00",
+    "customer_id": 1293,
+    "product_id": 735,
+    "quantity": 1,
+    "total_amount": 6.71,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9199,
+    "order_timestamp": "2025-01-01T20:49:00",
+    "customer_id": 1330,
+    "product_id": 776,
+    "quantity": 1,
+    "total_amount": 60.35,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9200,
+    "order_timestamp": "2025-01-01T02:54:00",
+    "customer_id": 1460,
+    "product_id": 655,
+    "quantity": 1,
+    "total_amount": 480.15,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9201,
+    "order_timestamp": "2025-01-01T08:01:00",
+    "customer_id": 1088,
+    "product_id": 581,
+    "quantity": 4,
+    "total_amount": 183.16,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9202,
+    "order_timestamp": "2025-01-01T22:04:00",
+    "customer_id": 1054,
+    "product_id": 673,
+    "quantity": 2,
+    "total_amount": 73.7,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9203,
+    "order_timestamp": "2025-01-01T11:51:00",
+    "customer_id": 1465,
+    "product_id": 725,
+    "quantity": 5,
+    "total_amount": 1542.35,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9204,
+    "order_timestamp": "2025-01-01T00:11:00",
+    "customer_id": 1436,
+    "product_id": 831,
+    "quantity": 4,
+    "total_amount": 284.64,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9205,
+    "order_timestamp": "2025-01-01T17:52:00",
+    "customer_id": 1196,
+    "product_id": 604,
+    "quantity": 3,
+    "total_amount": 501.72,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9206,
+    "order_timestamp": "2025-01-01T23:51:00",
+    "customer_id": 1479,
+    "product_id": 760,
+    "quantity": 4,
+    "total_amount": 1416.16,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9207,
+    "order_timestamp": "2025-01-01T07:11:00",
+    "customer_id": 1191,
+    "product_id": 753,
+    "quantity": 2,
+    "total_amount": 639.64,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9208,
+    "order_timestamp": "2025-01-01T16:59:00",
+    "customer_id": 1340,
+    "product_id": 519,
+    "quantity": 5,
+    "total_amount": 679.05,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9209,
+    "order_timestamp": "2025-01-01T00:52:00",
+    "customer_id": 1154,
+    "product_id": 903,
+    "quantity": 3,
+    "total_amount": 943.56,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9210,
+    "order_timestamp": "2025-01-01T17:30:00",
+    "customer_id": 1272,
+    "product_id": 664,
+    "quantity": 1,
+    "total_amount": 389.67,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9211,
+    "order_timestamp": "2025-01-01T16:45:00",
+    "customer_id": 1365,
+    "product_id": 907,
+    "quantity": 4,
+    "total_amount": 373.32,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9212,
+    "order_timestamp": "2025-01-01T10:00:00",
+    "customer_id": 1244,
+    "product_id": 875,
+    "quantity": 2,
+    "total_amount": 717.46,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9213,
+    "order_timestamp": "2025-01-01T03:47:00",
+    "customer_id": 1472,
+    "product_id": 689,
+    "quantity": 5,
+    "total_amount": 2308.3,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9214,
+    "order_timestamp": "2025-01-01T07:40:00",
+    "customer_id": 1251,
+    "product_id": 975,
+    "quantity": 5,
+    "total_amount": 75.4,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9215,
+    "order_timestamp": "2025-01-01T05:36:00",
+    "customer_id": 1272,
+    "product_id": 861,
+    "quantity": 5,
+    "total_amount": 307.0,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9216,
+    "order_timestamp": "2025-01-01T00:38:00",
+    "customer_id": 1187,
+    "product_id": 621,
+    "quantity": 1,
+    "total_amount": 89.32,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9217,
+    "order_timestamp": "2025-01-01T12:42:00",
+    "customer_id": 1314,
+    "product_id": 629,
+    "quantity": 5,
+    "total_amount": 1568.45,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9218,
+    "order_timestamp": "2025-01-01T02:03:00",
+    "customer_id": 1055,
+    "product_id": 552,
+    "quantity": 5,
+    "total_amount": 1051.25,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9219,
+    "order_timestamp": "2025-01-01T23:58:00",
+    "customer_id": 1479,
+    "product_id": 953,
+    "quantity": 5,
+    "total_amount": 958.2,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9220,
+    "order_timestamp": "2025-01-01T04:10:00",
+    "customer_id": 1413,
+    "product_id": 537,
+    "quantity": 2,
+    "total_amount": 639.58,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9221,
+    "order_timestamp": "2025-01-01T08:06:00",
+    "customer_id": 1443,
+    "product_id": 610,
+    "quantity": 3,
+    "total_amount": 617.4,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9222,
+    "order_timestamp": "2025-01-01T19:15:00",
+    "customer_id": 1460,
+    "product_id": 622,
+    "quantity": 3,
+    "total_amount": 1489.05,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9223,
+    "order_timestamp": "2025-01-01T23:24:00",
+    "customer_id": 1460,
+    "product_id": 830,
+    "quantity": 4,
+    "total_amount": 1894.36,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9224,
+    "order_timestamp": "2025-01-01T15:35:00",
+    "customer_id": 1090,
+    "product_id": 785,
+    "quantity": 5,
+    "total_amount": 455.25,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9225,
+    "order_timestamp": "2025-01-01T10:08:00",
+    "customer_id": 1126,
+    "product_id": 516,
+    "quantity": 3,
+    "total_amount": 1031.19,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9226,
+    "order_timestamp": "2025-01-01T22:34:00",
+    "customer_id": 1291,
+    "product_id": 586,
+    "quantity": 2,
+    "total_amount": 40.34,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9227,
+    "order_timestamp": "2025-01-01T08:42:00",
+    "customer_id": 1082,
+    "product_id": 864,
+    "quantity": 1,
+    "total_amount": 184.48,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9228,
+    "order_timestamp": "2025-01-01T13:32:00",
+    "customer_id": 1054,
+    "product_id": 975,
+    "quantity": 5,
+    "total_amount": 75.4,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9229,
+    "order_timestamp": "2025-01-01T18:45:00",
+    "customer_id": 1250,
+    "product_id": 984,
+    "quantity": 3,
+    "total_amount": 606.78,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9230,
+    "order_timestamp": "2025-01-01T18:06:00",
+    "customer_id": 1460,
+    "product_id": 617,
+    "quantity": 2,
+    "total_amount": 463.92,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9231,
+    "order_timestamp": "2025-01-01T20:31:00",
+    "customer_id": 1292,
+    "product_id": 589,
+    "quantity": 3,
+    "total_amount": 619.89,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9232,
+    "order_timestamp": "2025-01-01T02:59:00",
+    "customer_id": 1472,
+    "product_id": 719,
+    "quantity": 3,
+    "total_amount": 1076.13,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9233,
+    "order_timestamp": "2025-01-01T08:43:00",
+    "customer_id": 1126,
+    "product_id": 760,
+    "quantity": 2,
+    "total_amount": 708.08,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9234,
+    "order_timestamp": "2025-01-01T17:41:00",
+    "customer_id": 1240,
+    "product_id": 664,
+    "quantity": 1,
+    "total_amount": 389.67,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9235,
+    "order_timestamp": "2025-01-01T13:42:00",
+    "customer_id": 1068,
+    "product_id": 731,
+    "quantity": 3,
+    "total_amount": 454.86,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9236,
+    "order_timestamp": "2025-01-01T19:59:00",
+    "customer_id": 1098,
+    "product_id": 758,
+    "quantity": 2,
+    "total_amount": 129.96,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9237,
+    "order_timestamp": "2025-01-01T04:29:00",
+    "customer_id": 1196,
+    "product_id": 552,
+    "quantity": 2,
+    "total_amount": 420.5,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9238,
+    "order_timestamp": "2025-01-01T05:15:00",
+    "customer_id": 1103,
+    "product_id": 698,
+    "quantity": 3,
+    "total_amount": 131.88,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9239,
+    "order_timestamp": "2025-01-01T13:42:00",
+    "customer_id": 1395,
+    "product_id": 670,
+    "quantity": 4,
+    "total_amount": 1929.08,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9240,
+    "order_timestamp": "2025-01-01T01:58:00",
+    "customer_id": 1082,
+    "product_id": 943,
+    "quantity": 2,
+    "total_amount": 935.08,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9241,
+    "order_timestamp": "2025-01-01T12:44:00",
+    "customer_id": 1482,
+    "product_id": 896,
+    "quantity": 2,
+    "total_amount": 320.3,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9242,
+    "order_timestamp": "2025-01-01T07:10:00",
+    "customer_id": 1416,
+    "product_id": 905,
+    "quantity": 5,
+    "total_amount": 1183.45,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9243,
+    "order_timestamp": "2025-01-01T16:58:00",
+    "customer_id": 1283,
+    "product_id": 880,
+    "quantity": 1,
+    "total_amount": 485.01,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9244,
+    "order_timestamp": "2025-01-01T03:15:00",
+    "customer_id": 1426,
+    "product_id": 959,
+    "quantity": 4,
+    "total_amount": 46.92,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9245,
+    "order_timestamp": "2025-01-01T04:43:00",
+    "customer_id": 1287,
+    "product_id": 575,
+    "quantity": 2,
+    "total_amount": 786.46,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9246,
+    "order_timestamp": "2025-01-01T22:26:00",
+    "customer_id": 1328,
+    "product_id": 879,
+    "quantity": 2,
+    "total_amount": 185.52,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9247,
+    "order_timestamp": "2025-01-01T00:15:00",
+    "customer_id": 1123,
+    "product_id": 775,
+    "quantity": 3,
+    "total_amount": 204.66,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9248,
+    "order_timestamp": "2025-01-01T05:08:00",
+    "customer_id": 1208,
+    "product_id": 541,
+    "quantity": 1,
+    "total_amount": 260.43,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9249,
+    "order_timestamp": "2025-01-01T12:36:00",
+    "customer_id": 1322,
+    "product_id": 821,
+    "quantity": 5,
+    "total_amount": 507.9,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9250,
+    "order_timestamp": "2025-01-01T06:24:00",
+    "customer_id": 1127,
+    "product_id": 909,
+    "quantity": 1,
+    "total_amount": 55.92,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9251,
+    "order_timestamp": "2025-01-01T21:44:00",
+    "customer_id": 1408,
+    "product_id": 788,
+    "quantity": 2,
+    "total_amount": 691.3,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9252,
+    "order_timestamp": "2025-01-01T12:21:00",
+    "customer_id": 1100,
+    "product_id": 702,
+    "quantity": 2,
+    "total_amount": 175.62,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9253,
+    "order_timestamp": "2025-01-01T17:54:00",
+    "customer_id": 1070,
+    "product_id": 984,
+    "quantity": 2,
+    "total_amount": 404.52,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9254,
+    "order_timestamp": "2025-01-01T09:48:00",
+    "customer_id": 1020,
+    "product_id": 766,
+    "quantity": 1,
+    "total_amount": 413.89,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9255,
+    "order_timestamp": "2025-01-01T06:19:00",
+    "customer_id": 1492,
+    "product_id": 630,
+    "quantity": 1,
+    "total_amount": 146.56,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9256,
+    "order_timestamp": "2025-01-01T21:32:00",
+    "customer_id": 1082,
+    "product_id": 881,
+    "quantity": 4,
+    "total_amount": 1576.64,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9257,
+    "order_timestamp": "2025-01-01T17:26:00",
+    "customer_id": 1005,
+    "product_id": 587,
+    "quantity": 1,
+    "total_amount": 382.96,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9258,
+    "order_timestamp": "2025-01-01T09:58:00",
+    "customer_id": 1032,
+    "product_id": 648,
+    "quantity": 4,
+    "total_amount": 1634.0,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9259,
+    "order_timestamp": "2025-01-01T22:40:00",
+    "customer_id": 1463,
+    "product_id": 805,
+    "quantity": 1,
+    "total_amount": 51.55,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9260,
+    "order_timestamp": "2025-01-01T00:14:00",
+    "customer_id": 1054,
+    "product_id": 920,
+    "quantity": 2,
+    "total_amount": 741.68,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9261,
+    "order_timestamp": "2025-01-01T22:12:00",
+    "customer_id": 1038,
+    "product_id": 938,
+    "quantity": 1,
+    "total_amount": 201.26,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9262,
+    "order_timestamp": "2025-01-01T12:47:00",
+    "customer_id": 1047,
+    "product_id": 828,
+    "quantity": 5,
+    "total_amount": 1714.85,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9263,
+    "order_timestamp": "2025-01-01T01:43:00",
+    "customer_id": 1378,
+    "product_id": 996,
+    "quantity": 3,
+    "total_amount": 996.51,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9264,
+    "order_timestamp": "2025-01-01T17:58:00",
+    "customer_id": 1163,
+    "product_id": 747,
+    "quantity": 2,
+    "total_amount": 607.06,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9265,
+    "order_timestamp": "2025-01-01T07:24:00",
+    "customer_id": 1385,
+    "product_id": 993,
+    "quantity": 2,
+    "total_amount": 384.4,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9266,
+    "order_timestamp": "2025-01-01T19:13:00",
+    "customer_id": 1419,
+    "product_id": 895,
+    "quantity": 5,
+    "total_amount": 1527.45,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9267,
+    "order_timestamp": "2025-01-01T05:08:00",
+    "customer_id": 1414,
+    "product_id": 882,
+    "quantity": 5,
+    "total_amount": 769.8,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9268,
+    "order_timestamp": "2025-01-01T04:09:00",
+    "customer_id": 1025,
+    "product_id": 737,
+    "quantity": 5,
+    "total_amount": 2392.1,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9269,
+    "order_timestamp": "2025-01-01T08:58:00",
+    "customer_id": 1293,
+    "product_id": 826,
+    "quantity": 1,
+    "total_amount": 137.6,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9270,
+    "order_timestamp": "2025-01-01T17:54:00",
+    "customer_id": 1232,
+    "product_id": 577,
+    "quantity": 2,
+    "total_amount": 73.28,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9271,
+    "order_timestamp": "2025-01-01T23:26:00",
+    "customer_id": 1224,
+    "product_id": 663,
+    "quantity": 5,
+    "total_amount": 736.0,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9272,
+    "order_timestamp": "2025-01-01T10:28:00",
+    "customer_id": 1474,
+    "product_id": 873,
+    "quantity": 5,
+    "total_amount": 1312.75,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9273,
+    "order_timestamp": "2025-01-01T12:22:00",
+    "customer_id": 1211,
+    "product_id": 561,
+    "quantity": 4,
+    "total_amount": 938.52,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9274,
+    "order_timestamp": "2025-01-01T07:22:00",
+    "customer_id": 1412,
+    "product_id": 855,
+    "quantity": 5,
+    "total_amount": 1992.35,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9275,
+    "order_timestamp": "2025-01-01T17:32:00",
+    "customer_id": 1330,
+    "product_id": 583,
+    "quantity": 2,
+    "total_amount": 384.42,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9276,
+    "order_timestamp": "2025-01-01T16:32:00",
+    "customer_id": 1028,
+    "product_id": 996,
+    "quantity": 2,
+    "total_amount": 664.34,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9277,
+    "order_timestamp": "2025-01-01T21:18:00",
+    "customer_id": 1053,
+    "product_id": 831,
+    "quantity": 5,
+    "total_amount": 355.8,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9278,
+    "order_timestamp": "2025-01-01T09:37:00",
+    "customer_id": 1412,
+    "product_id": 788,
+    "quantity": 3,
+    "total_amount": 1036.95,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9279,
+    "order_timestamp": "2025-01-01T15:30:00",
+    "customer_id": 1391,
+    "product_id": 693,
+    "quantity": 1,
+    "total_amount": 32.25,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9280,
+    "order_timestamp": "2025-01-01T07:39:00",
+    "customer_id": 1171,
+    "product_id": 712,
+    "quantity": 1,
+    "total_amount": 303.29,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9281,
+    "order_timestamp": "2025-01-01T00:36:00",
+    "customer_id": 1141,
+    "product_id": 669,
+    "quantity": 1,
+    "total_amount": 355.89,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9282,
+    "order_timestamp": "2025-01-01T10:16:00",
+    "customer_id": 1039,
+    "product_id": 605,
+    "quantity": 2,
+    "total_amount": 448.68,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9283,
+    "order_timestamp": "2025-01-01T03:37:00",
+    "customer_id": 1336,
+    "product_id": 980,
+    "quantity": 3,
+    "total_amount": 887.52,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9284,
+    "order_timestamp": "2025-01-01T02:37:00",
+    "customer_id": 1405,
+    "product_id": 569,
+    "quantity": 2,
+    "total_amount": 593.44,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9285,
+    "order_timestamp": "2025-01-01T23:14:00",
+    "customer_id": 1260,
+    "product_id": 582,
+    "quantity": 3,
+    "total_amount": 1385.28,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9286,
+    "order_timestamp": "2025-01-01T13:40:00",
+    "customer_id": 1325,
+    "product_id": 737,
+    "quantity": 3,
+    "total_amount": 1435.26,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9287,
+    "order_timestamp": "2025-01-01T13:24:00",
+    "customer_id": 1347,
+    "product_id": 687,
+    "quantity": 4,
+    "total_amount": 251.6,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9288,
+    "order_timestamp": "2025-01-01T20:06:00",
+    "customer_id": 1482,
+    "product_id": 729,
+    "quantity": 2,
+    "total_amount": 363.4,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9289,
+    "order_timestamp": "2025-01-01T09:59:00",
+    "customer_id": 1245,
+    "product_id": 718,
+    "quantity": 4,
+    "total_amount": 355.64,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9290,
+    "order_timestamp": "2025-01-01T14:48:00",
+    "customer_id": 1060,
+    "product_id": 914,
+    "quantity": 4,
+    "total_amount": 637.92,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9291,
+    "order_timestamp": "2025-01-01T01:24:00",
+    "customer_id": 1114,
+    "product_id": 789,
+    "quantity": 3,
+    "total_amount": 706.47,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9292,
+    "order_timestamp": "2025-01-01T12:15:00",
+    "customer_id": 1494,
+    "product_id": 988,
+    "quantity": 1,
+    "total_amount": 205.1,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9293,
+    "order_timestamp": "2025-01-01T17:39:00",
+    "customer_id": 1414,
+    "product_id": 670,
+    "quantity": 3,
+    "total_amount": 1446.81,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9294,
+    "order_timestamp": "2025-01-01T07:46:00",
+    "customer_id": 1291,
+    "product_id": 960,
+    "quantity": 4,
+    "total_amount": 1611.8,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9295,
+    "order_timestamp": "2025-01-01T23:18:00",
+    "customer_id": 1155,
+    "product_id": 856,
+    "quantity": 5,
+    "total_amount": 1918.5,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9296,
+    "order_timestamp": "2025-01-01T13:29:00",
+    "customer_id": 1376,
+    "product_id": 792,
+    "quantity": 1,
+    "total_amount": 242.57,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9297,
+    "order_timestamp": "2025-01-01T03:52:00",
+    "customer_id": 1335,
+    "product_id": 927,
+    "quantity": 4,
+    "total_amount": 756.28,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9298,
+    "order_timestamp": "2025-01-01T09:08:00",
+    "customer_id": 1401,
+    "product_id": 523,
+    "quantity": 3,
+    "total_amount": 315.24,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9299,
+    "order_timestamp": "2025-01-01T23:11:00",
+    "customer_id": 1088,
+    "product_id": 581,
+    "quantity": 4,
+    "total_amount": 183.16,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9300,
+    "order_timestamp": "2025-01-01T12:21:00",
+    "customer_id": 1276,
+    "product_id": 567,
+    "quantity": 4,
+    "total_amount": 494.28,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9301,
+    "order_timestamp": "2025-01-01T02:44:00",
+    "customer_id": 1088,
+    "product_id": 763,
+    "quantity": 2,
+    "total_amount": 47.66,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9302,
+    "order_timestamp": "2025-01-01T22:19:00",
+    "customer_id": 1107,
+    "product_id": 633,
+    "quantity": 3,
+    "total_amount": 1399.5,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9303,
+    "order_timestamp": "2025-01-01T09:15:00",
+    "customer_id": 1351,
+    "product_id": 848,
+    "quantity": 5,
+    "total_amount": 1851.85,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9304,
+    "order_timestamp": "2025-01-01T04:49:00",
+    "customer_id": 1418,
+    "product_id": 571,
+    "quantity": 3,
+    "total_amount": 155.16,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9305,
+    "order_timestamp": "2025-01-01T22:00:00",
+    "customer_id": 1329,
+    "product_id": 605,
+    "quantity": 3,
+    "total_amount": 673.02,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9306,
+    "order_timestamp": "2025-01-01T07:16:00",
+    "customer_id": 1457,
+    "product_id": 775,
+    "quantity": 1,
+    "total_amount": 68.22,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9307,
+    "order_timestamp": "2025-01-01T14:10:00",
+    "customer_id": 1388,
+    "product_id": 923,
+    "quantity": 4,
+    "total_amount": 1735.68,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9308,
+    "order_timestamp": "2025-01-01T13:56:00",
+    "customer_id": 1086,
+    "product_id": 710,
+    "quantity": 1,
+    "total_amount": 148.04,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9309,
+    "order_timestamp": "2025-01-01T03:51:00",
+    "customer_id": 1125,
+    "product_id": 937,
+    "quantity": 4,
+    "total_amount": 379.52,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9310,
+    "order_timestamp": "2025-01-01T00:44:00",
+    "customer_id": 1207,
+    "product_id": 733,
+    "quantity": 4,
+    "total_amount": 185.16,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9311,
+    "order_timestamp": "2025-01-01T19:38:00",
+    "customer_id": 1470,
+    "product_id": 784,
+    "quantity": 2,
+    "total_amount": 673.82,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9312,
+    "order_timestamp": "2025-01-01T14:02:00",
+    "customer_id": 1294,
+    "product_id": 505,
+    "quantity": 3,
+    "total_amount": 1315.29,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9313,
+    "order_timestamp": "2025-01-01T03:24:00",
+    "customer_id": 1476,
+    "product_id": 651,
+    "quantity": 3,
+    "total_amount": 1110.45,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9314,
+    "order_timestamp": "2025-01-01T23:27:00",
+    "customer_id": 1362,
+    "product_id": 939,
+    "quantity": 5,
+    "total_amount": 1811.65,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9315,
+    "order_timestamp": "2025-01-01T05:22:00",
+    "customer_id": 1353,
+    "product_id": 530,
+    "quantity": 3,
+    "total_amount": 80.49,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9316,
+    "order_timestamp": "2025-01-01T07:41:00",
+    "customer_id": 1024,
+    "product_id": 850,
+    "quantity": 1,
+    "total_amount": 405.47,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9317,
+    "order_timestamp": "2025-01-01T11:06:00",
+    "customer_id": 1396,
+    "product_id": 513,
+    "quantity": 2,
+    "total_amount": 427.88,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9318,
+    "order_timestamp": "2025-01-01T21:32:00",
+    "customer_id": 1066,
+    "product_id": 722,
+    "quantity": 4,
+    "total_amount": 272.0,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9319,
+    "order_timestamp": "2025-01-01T02:50:00",
+    "customer_id": 1008,
+    "product_id": 779,
+    "quantity": 4,
+    "total_amount": 327.52,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9320,
+    "order_timestamp": "2025-01-01T08:15:00",
+    "customer_id": 1022,
+    "product_id": 612,
+    "quantity": 5,
+    "total_amount": 2276.65,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9321,
+    "order_timestamp": "2025-01-01T15:39:00",
+    "customer_id": 1463,
+    "product_id": 519,
+    "quantity": 1,
+    "total_amount": 135.81,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9322,
+    "order_timestamp": "2025-01-01T00:31:00",
+    "customer_id": 1419,
+    "product_id": 705,
+    "quantity": 5,
+    "total_amount": 1111.75,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9323,
+    "order_timestamp": "2025-01-01T11:48:00",
+    "customer_id": 1096,
+    "product_id": 766,
+    "quantity": 2,
+    "total_amount": 827.78,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9324,
+    "order_timestamp": "2025-01-01T00:46:00",
+    "customer_id": 1136,
+    "product_id": 516,
+    "quantity": 5,
+    "total_amount": 1718.65,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9325,
+    "order_timestamp": "2025-01-01T09:27:00",
+    "customer_id": 1312,
+    "product_id": 907,
+    "quantity": 2,
+    "total_amount": 186.66,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9326,
+    "order_timestamp": "2025-01-01T10:41:00",
+    "customer_id": 1119,
+    "product_id": 543,
+    "quantity": 2,
+    "total_amount": 34.88,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9327,
+    "order_timestamp": "2025-01-01T07:55:00",
+    "customer_id": 1255,
+    "product_id": 554,
+    "quantity": 3,
+    "total_amount": 245.55,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9328,
+    "order_timestamp": "2025-01-01T03:30:00",
+    "customer_id": 1286,
+    "product_id": 654,
+    "quantity": 3,
+    "total_amount": 408.45,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9329,
+    "order_timestamp": "2025-01-01T19:53:00",
+    "customer_id": 1495,
+    "product_id": 804,
+    "quantity": 2,
+    "total_amount": 221.28,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9330,
+    "order_timestamp": "2025-01-01T17:09:00",
+    "customer_id": 1348,
+    "product_id": 584,
+    "quantity": 5,
+    "total_amount": 270.25,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9331,
+    "order_timestamp": "2025-01-01T12:42:00",
+    "customer_id": 1103,
+    "product_id": 615,
+    "quantity": 1,
+    "total_amount": 170.23,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9332,
+    "order_timestamp": "2025-01-01T15:44:00",
+    "customer_id": 1395,
+    "product_id": 618,
+    "quantity": 3,
+    "total_amount": 1242.27,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9333,
+    "order_timestamp": "2025-01-01T22:42:00",
+    "customer_id": 1256,
+    "product_id": 584,
+    "quantity": 2,
+    "total_amount": 108.1,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9334,
+    "order_timestamp": "2025-01-01T04:42:00",
+    "customer_id": 1032,
+    "product_id": 731,
+    "quantity": 2,
+    "total_amount": 303.24,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9335,
+    "order_timestamp": "2025-01-01T10:52:00",
+    "customer_id": 1381,
+    "product_id": 883,
+    "quantity": 1,
+    "total_amount": 319.3,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9336,
+    "order_timestamp": "2025-01-01T21:22:00",
+    "customer_id": 1445,
+    "product_id": 927,
+    "quantity": 2,
+    "total_amount": 378.14,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9337,
+    "order_timestamp": "2025-01-01T13:35:00",
+    "customer_id": 1253,
+    "product_id": 748,
+    "quantity": 5,
+    "total_amount": 2198.7,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9338,
+    "order_timestamp": "2025-01-01T07:08:00",
+    "customer_id": 1219,
+    "product_id": 556,
+    "quantity": 3,
+    "total_amount": 161.76,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9339,
+    "order_timestamp": "2025-01-01T23:58:00",
+    "customer_id": 1391,
+    "product_id": 713,
+    "quantity": 2,
+    "total_amount": 866.38,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9340,
+    "order_timestamp": "2025-01-01T21:24:00",
+    "customer_id": 1427,
+    "product_id": 524,
+    "quantity": 4,
+    "total_amount": 1005.96,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9341,
+    "order_timestamp": "2025-01-01T06:55:00",
+    "customer_id": 1221,
+    "product_id": 641,
+    "quantity": 3,
+    "total_amount": 1482.36,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9342,
+    "order_timestamp": "2025-01-01T21:40:00",
+    "customer_id": 1019,
+    "product_id": 924,
+    "quantity": 1,
+    "total_amount": 138.16,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9343,
+    "order_timestamp": "2025-01-01T00:35:00",
+    "customer_id": 1457,
+    "product_id": 932,
+    "quantity": 1,
+    "total_amount": 315.83,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9344,
+    "order_timestamp": "2025-01-01T06:07:00",
+    "customer_id": 1136,
+    "product_id": 867,
+    "quantity": 2,
+    "total_amount": 498.34,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9345,
+    "order_timestamp": "2025-01-01T21:36:00",
+    "customer_id": 1488,
+    "product_id": 981,
+    "quantity": 1,
+    "total_amount": 162.96,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9346,
+    "order_timestamp": "2025-01-01T08:56:00",
+    "customer_id": 1424,
+    "product_id": 692,
+    "quantity": 2,
+    "total_amount": 417.02,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9347,
+    "order_timestamp": "2025-01-01T20:13:00",
+    "customer_id": 1191,
+    "product_id": 629,
+    "quantity": 1,
+    "total_amount": 313.69,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9348,
+    "order_timestamp": "2025-01-01T06:54:00",
+    "customer_id": 1260,
+    "product_id": 518,
+    "quantity": 1,
+    "total_amount": 347.75,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9349,
+    "order_timestamp": "2025-01-01T09:55:00",
+    "customer_id": 1267,
+    "product_id": 756,
+    "quantity": 1,
+    "total_amount": 362.96,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9350,
+    "order_timestamp": "2025-01-01T07:11:00",
+    "customer_id": 1325,
+    "product_id": 748,
+    "quantity": 1,
+    "total_amount": 439.74,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9351,
+    "order_timestamp": "2025-01-01T19:43:00",
+    "customer_id": 1361,
+    "product_id": 990,
+    "quantity": 1,
+    "total_amount": 195.43,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9352,
+    "order_timestamp": "2025-01-01T16:10:00",
+    "customer_id": 1189,
+    "product_id": 737,
+    "quantity": 2,
+    "total_amount": 956.84,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9353,
+    "order_timestamp": "2025-01-01T17:03:00",
+    "customer_id": 1150,
+    "product_id": 671,
+    "quantity": 2,
+    "total_amount": 393.28,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9354,
+    "order_timestamp": "2025-01-01T05:41:00",
+    "customer_id": 1243,
+    "product_id": 702,
+    "quantity": 1,
+    "total_amount": 87.81,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9355,
+    "order_timestamp": "2025-01-01T01:05:00",
+    "customer_id": 1088,
+    "product_id": 500,
+    "quantity": 4,
+    "total_amount": 1068.96,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9356,
+    "order_timestamp": "2025-01-01T16:19:00",
+    "customer_id": 1271,
+    "product_id": 918,
+    "quantity": 2,
+    "total_amount": 128.6,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9357,
+    "order_timestamp": "2025-01-01T13:41:00",
+    "customer_id": 1375,
+    "product_id": 967,
+    "quantity": 2,
+    "total_amount": 301.5,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9358,
+    "order_timestamp": "2025-01-01T17:00:00",
+    "customer_id": 1357,
+    "product_id": 939,
+    "quantity": 4,
+    "total_amount": 1449.32,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9359,
+    "order_timestamp": "2025-01-01T01:02:00",
+    "customer_id": 1297,
+    "product_id": 941,
+    "quantity": 5,
+    "total_amount": 1390.1,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9360,
+    "order_timestamp": "2025-01-01T06:37:00",
+    "customer_id": 1100,
+    "product_id": 513,
+    "quantity": 2,
+    "total_amount": 427.88,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9361,
+    "order_timestamp": "2025-01-01T04:30:00",
+    "customer_id": 1283,
+    "product_id": 932,
+    "quantity": 2,
+    "total_amount": 631.66,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9362,
+    "order_timestamp": "2025-01-01T06:22:00",
+    "customer_id": 1499,
+    "product_id": 584,
+    "quantity": 5,
+    "total_amount": 270.25,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9363,
+    "order_timestamp": "2025-01-01T06:21:00",
+    "customer_id": 1024,
+    "product_id": 795,
+    "quantity": 2,
+    "total_amount": 670.46,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9364,
+    "order_timestamp": "2025-01-01T14:38:00",
+    "customer_id": 1374,
+    "product_id": 618,
+    "quantity": 4,
+    "total_amount": 1656.36,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9365,
+    "order_timestamp": "2025-01-01T06:04:00",
+    "customer_id": 1228,
+    "product_id": 654,
+    "quantity": 2,
+    "total_amount": 272.3,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9366,
+    "order_timestamp": "2025-01-01T20:57:00",
+    "customer_id": 1292,
+    "product_id": 545,
+    "quantity": 3,
+    "total_amount": 1485.75,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9367,
+    "order_timestamp": "2025-01-01T17:35:00",
+    "customer_id": 1275,
+    "product_id": 741,
+    "quantity": 2,
+    "total_amount": 849.84,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9368,
+    "order_timestamp": "2025-01-01T12:37:00",
+    "customer_id": 1406,
+    "product_id": 829,
+    "quantity": 3,
+    "total_amount": 1320.15,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9369,
+    "order_timestamp": "2025-01-01T00:27:00",
+    "customer_id": 1296,
+    "product_id": 868,
+    "quantity": 2,
+    "total_amount": 897.88,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9370,
+    "order_timestamp": "2025-01-01T13:05:00",
+    "customer_id": 1371,
+    "product_id": 565,
+    "quantity": 3,
+    "total_amount": 63.72,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9371,
+    "order_timestamp": "2025-01-01T17:17:00",
+    "customer_id": 1196,
+    "product_id": 714,
+    "quantity": 1,
+    "total_amount": 85.38,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9372,
+    "order_timestamp": "2025-01-01T17:23:00",
+    "customer_id": 1493,
+    "product_id": 542,
+    "quantity": 2,
+    "total_amount": 562.94,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9373,
+    "order_timestamp": "2025-01-01T23:35:00",
+    "customer_id": 1346,
+    "product_id": 551,
+    "quantity": 2,
+    "total_amount": 276.96,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9374,
+    "order_timestamp": "2025-01-01T04:54:00",
+    "customer_id": 1438,
+    "product_id": 562,
+    "quantity": 3,
+    "total_amount": 352.71,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9375,
+    "order_timestamp": "2025-01-01T06:04:00",
+    "customer_id": 1055,
+    "product_id": 980,
+    "quantity": 5,
+    "total_amount": 1479.2,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9376,
+    "order_timestamp": "2025-01-01T08:15:00",
+    "customer_id": 1179,
+    "product_id": 782,
+    "quantity": 3,
+    "total_amount": 370.17,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9377,
+    "order_timestamp": "2025-01-01T15:08:00",
+    "customer_id": 1454,
+    "product_id": 818,
+    "quantity": 2,
+    "total_amount": 406.6,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9378,
+    "order_timestamp": "2025-01-01T17:23:00",
+    "customer_id": 1101,
+    "product_id": 784,
+    "quantity": 5,
+    "total_amount": 1684.55,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9379,
+    "order_timestamp": "2025-01-01T13:41:00",
+    "customer_id": 1332,
+    "product_id": 885,
+    "quantity": 2,
+    "total_amount": 694.62,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9380,
+    "order_timestamp": "2025-01-01T02:39:00",
+    "customer_id": 1336,
+    "product_id": 793,
+    "quantity": 5,
+    "total_amount": 1742.4,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9381,
+    "order_timestamp": "2025-01-01T12:02:00",
+    "customer_id": 1162,
+    "product_id": 809,
+    "quantity": 1,
+    "total_amount": 86.1,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9382,
+    "order_timestamp": "2025-01-01T18:13:00",
+    "customer_id": 1268,
+    "product_id": 590,
+    "quantity": 2,
+    "total_amount": 248.58,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9383,
+    "order_timestamp": "2025-01-01T23:29:00",
+    "customer_id": 1435,
+    "product_id": 780,
+    "quantity": 5,
+    "total_amount": 81.0,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9384,
+    "order_timestamp": "2025-01-01T19:08:00",
+    "customer_id": 1462,
+    "product_id": 683,
+    "quantity": 1,
+    "total_amount": 123.72,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9385,
+    "order_timestamp": "2025-01-01T13:58:00",
+    "customer_id": 1099,
+    "product_id": 706,
+    "quantity": 3,
+    "total_amount": 476.13,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9386,
+    "order_timestamp": "2025-01-01T00:12:00",
+    "customer_id": 1007,
+    "product_id": 921,
+    "quantity": 1,
+    "total_amount": 112.16,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9387,
+    "order_timestamp": "2025-01-01T02:35:00",
+    "customer_id": 1496,
+    "product_id": 555,
+    "quantity": 4,
+    "total_amount": 870.72,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9388,
+    "order_timestamp": "2025-01-01T04:26:00",
+    "customer_id": 1066,
+    "product_id": 839,
+    "quantity": 1,
+    "total_amount": 65.69,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9389,
+    "order_timestamp": "2025-01-01T14:21:00",
+    "customer_id": 1434,
+    "product_id": 507,
+    "quantity": 3,
+    "total_amount": 1244.61,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9390,
+    "order_timestamp": "2025-01-01T11:06:00",
+    "customer_id": 1076,
+    "product_id": 921,
+    "quantity": 1,
+    "total_amount": 112.16,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9391,
+    "order_timestamp": "2025-01-01T22:16:00",
+    "customer_id": 1101,
+    "product_id": 515,
+    "quantity": 2,
+    "total_amount": 202.6,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9392,
+    "order_timestamp": "2025-01-01T02:49:00",
+    "customer_id": 1361,
+    "product_id": 616,
+    "quantity": 4,
+    "total_amount": 953.0,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9393,
+    "order_timestamp": "2025-01-01T21:59:00",
+    "customer_id": 1234,
+    "product_id": 812,
+    "quantity": 2,
+    "total_amount": 941.34,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9394,
+    "order_timestamp": "2025-01-01T00:42:00",
+    "customer_id": 1158,
+    "product_id": 728,
+    "quantity": 3,
+    "total_amount": 1374.45,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9395,
+    "order_timestamp": "2025-01-01T08:04:00",
+    "customer_id": 1219,
+    "product_id": 725,
+    "quantity": 4,
+    "total_amount": 1233.88,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9396,
+    "order_timestamp": "2025-01-01T17:48:00",
+    "customer_id": 1205,
+    "product_id": 771,
+    "quantity": 2,
+    "total_amount": 408.08,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9397,
+    "order_timestamp": "2025-01-01T19:27:00",
+    "customer_id": 1183,
+    "product_id": 842,
+    "quantity": 1,
+    "total_amount": 218.98,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9398,
+    "order_timestamp": "2025-01-01T23:44:00",
+    "customer_id": 1471,
+    "product_id": 734,
+    "quantity": 2,
+    "total_amount": 886.6,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9399,
+    "order_timestamp": "2025-01-01T18:54:00",
+    "customer_id": 1436,
+    "product_id": 534,
+    "quantity": 1,
+    "total_amount": 464.22,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9400,
+    "order_timestamp": "2025-01-01T22:18:00",
+    "customer_id": 1011,
+    "product_id": 638,
+    "quantity": 2,
+    "total_amount": 319.36,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9401,
+    "order_timestamp": "2025-01-01T04:09:00",
+    "customer_id": 1286,
+    "product_id": 657,
+    "quantity": 4,
+    "total_amount": 636.6,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9402,
+    "order_timestamp": "2025-01-01T08:04:00",
+    "customer_id": 1408,
+    "product_id": 575,
+    "quantity": 1,
+    "total_amount": 393.23,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9403,
+    "order_timestamp": "2025-01-01T05:48:00",
+    "customer_id": 1244,
+    "product_id": 833,
+    "quantity": 2,
+    "total_amount": 95.84,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9404,
+    "order_timestamp": "2025-01-01T17:57:00",
+    "customer_id": 1464,
+    "product_id": 746,
+    "quantity": 4,
+    "total_amount": 957.0,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9405,
+    "order_timestamp": "2025-01-01T07:42:00",
+    "customer_id": 1214,
+    "product_id": 681,
+    "quantity": 1,
+    "total_amount": 262.02,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9406,
+    "order_timestamp": "2025-01-01T22:59:00",
+    "customer_id": 1303,
+    "product_id": 885,
+    "quantity": 4,
+    "total_amount": 1389.24,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9407,
+    "order_timestamp": "2025-01-01T04:12:00",
+    "customer_id": 1086,
+    "product_id": 716,
+    "quantity": 4,
+    "total_amount": 91.48,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9408,
+    "order_timestamp": "2025-01-01T23:34:00",
+    "customer_id": 1098,
+    "product_id": 860,
+    "quantity": 3,
+    "total_amount": 811.44,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9409,
+    "order_timestamp": "2025-01-01T14:20:00",
+    "customer_id": 1206,
+    "product_id": 946,
+    "quantity": 2,
+    "total_amount": 836.2,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9410,
+    "order_timestamp": "2025-01-01T18:06:00",
+    "customer_id": 1390,
+    "product_id": 828,
+    "quantity": 1,
+    "total_amount": 342.97,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9411,
+    "order_timestamp": "2025-01-01T17:59:00",
+    "customer_id": 1454,
+    "product_id": 525,
+    "quantity": 5,
+    "total_amount": 575.25,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9412,
+    "order_timestamp": "2025-01-01T22:52:00",
+    "customer_id": 1164,
+    "product_id": 749,
+    "quantity": 5,
+    "total_amount": 2190.25,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9413,
+    "order_timestamp": "2025-01-01T02:55:00",
+    "customer_id": 1183,
+    "product_id": 549,
+    "quantity": 3,
+    "total_amount": 559.23,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9414,
+    "order_timestamp": "2025-01-01T07:33:00",
+    "customer_id": 1083,
+    "product_id": 709,
+    "quantity": 2,
+    "total_amount": 155.08,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9415,
+    "order_timestamp": "2025-01-01T18:04:00",
+    "customer_id": 1267,
+    "product_id": 530,
+    "quantity": 4,
+    "total_amount": 107.32,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9416,
+    "order_timestamp": "2025-01-01T21:55:00",
+    "customer_id": 1387,
+    "product_id": 664,
+    "quantity": 2,
+    "total_amount": 779.34,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9417,
+    "order_timestamp": "2025-01-01T07:16:00",
+    "customer_id": 1447,
+    "product_id": 962,
+    "quantity": 5,
+    "total_amount": 1762.6,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9418,
+    "order_timestamp": "2025-01-01T23:52:00",
+    "customer_id": 1228,
+    "product_id": 562,
+    "quantity": 2,
+    "total_amount": 235.14,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9419,
+    "order_timestamp": "2025-01-01T20:06:00",
+    "customer_id": 1195,
+    "product_id": 794,
+    "quantity": 5,
+    "total_amount": 2407.95,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9420,
+    "order_timestamp": "2025-01-01T19:04:00",
+    "customer_id": 1392,
+    "product_id": 937,
+    "quantity": 5,
+    "total_amount": 474.4,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9421,
+    "order_timestamp": "2025-01-01T20:53:00",
+    "customer_id": 1096,
+    "product_id": 541,
+    "quantity": 4,
+    "total_amount": 1041.72,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9422,
+    "order_timestamp": "2025-01-01T22:18:00",
+    "customer_id": 1133,
+    "product_id": 821,
+    "quantity": 1,
+    "total_amount": 101.58,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9423,
+    "order_timestamp": "2025-01-01T16:19:00",
+    "customer_id": 1454,
+    "product_id": 605,
+    "quantity": 2,
+    "total_amount": 448.68,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9424,
+    "order_timestamp": "2025-01-01T19:04:00",
+    "customer_id": 1016,
+    "product_id": 543,
+    "quantity": 2,
+    "total_amount": 34.88,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9425,
+    "order_timestamp": "2025-01-01T15:20:00",
+    "customer_id": 1407,
+    "product_id": 949,
+    "quantity": 3,
+    "total_amount": 195.72,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9426,
+    "order_timestamp": "2025-01-01T10:17:00",
+    "customer_id": 1157,
+    "product_id": 966,
+    "quantity": 2,
+    "total_amount": 683.08,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9427,
+    "order_timestamp": "2025-01-01T15:24:00",
+    "customer_id": 1231,
+    "product_id": 850,
+    "quantity": 1,
+    "total_amount": 405.47,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9428,
+    "order_timestamp": "2025-01-01T09:30:00",
+    "customer_id": 1270,
+    "product_id": 850,
+    "quantity": 1,
+    "total_amount": 405.47,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9429,
+    "order_timestamp": "2025-01-01T10:41:00",
+    "customer_id": 1183,
+    "product_id": 898,
+    "quantity": 1,
+    "total_amount": 168.57,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9430,
+    "order_timestamp": "2025-01-01T03:25:00",
+    "customer_id": 1002,
+    "product_id": 646,
+    "quantity": 1,
+    "total_amount": 261.01,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9431,
+    "order_timestamp": "2025-01-01T06:01:00",
+    "customer_id": 1236,
+    "product_id": 904,
+    "quantity": 1,
+    "total_amount": 130.63,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9432,
+    "order_timestamp": "2025-01-01T08:29:00",
+    "customer_id": 1192,
+    "product_id": 585,
+    "quantity": 5,
+    "total_amount": 1143.0,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9433,
+    "order_timestamp": "2025-01-01T14:10:00",
+    "customer_id": 1314,
+    "product_id": 708,
+    "quantity": 2,
+    "total_amount": 726.28,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9434,
+    "order_timestamp": "2025-01-01T03:41:00",
+    "customer_id": 1007,
+    "product_id": 515,
+    "quantity": 2,
+    "total_amount": 202.6,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9435,
+    "order_timestamp": "2025-01-01T13:44:00",
+    "customer_id": 1027,
+    "product_id": 537,
+    "quantity": 4,
+    "total_amount": 1279.16,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9436,
+    "order_timestamp": "2025-01-01T14:46:00",
+    "customer_id": 1206,
+    "product_id": 809,
+    "quantity": 3,
+    "total_amount": 258.3,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9437,
+    "order_timestamp": "2025-01-01T22:07:00",
+    "customer_id": 1145,
+    "product_id": 770,
+    "quantity": 1,
+    "total_amount": 227.87,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9438,
+    "order_timestamp": "2025-01-01T20:35:00",
+    "customer_id": 1340,
+    "product_id": 666,
+    "quantity": 4,
+    "total_amount": 855.76,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9439,
+    "order_timestamp": "2025-01-01T08:45:00",
+    "customer_id": 1236,
+    "product_id": 784,
+    "quantity": 3,
+    "total_amount": 1010.73,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9440,
+    "order_timestamp": "2025-01-01T04:04:00",
+    "customer_id": 1237,
+    "product_id": 630,
+    "quantity": 1,
+    "total_amount": 146.56,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9441,
+    "order_timestamp": "2025-01-01T22:31:00",
+    "customer_id": 1059,
+    "product_id": 865,
+    "quantity": 1,
+    "total_amount": 412.53,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9442,
+    "order_timestamp": "2025-01-01T01:03:00",
+    "customer_id": 1360,
+    "product_id": 710,
+    "quantity": 5,
+    "total_amount": 740.2,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9443,
+    "order_timestamp": "2025-01-01T14:30:00",
+    "customer_id": 1252,
+    "product_id": 807,
+    "quantity": 1,
+    "total_amount": 457.98,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9444,
+    "order_timestamp": "2025-01-01T01:12:00",
+    "customer_id": 1176,
+    "product_id": 568,
+    "quantity": 1,
+    "total_amount": 313.86,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9445,
+    "order_timestamp": "2025-01-01T15:29:00",
+    "customer_id": 1458,
+    "product_id": 511,
+    "quantity": 2,
+    "total_amount": 557.44,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9446,
+    "order_timestamp": "2025-01-01T14:37:00",
+    "customer_id": 1306,
+    "product_id": 557,
+    "quantity": 4,
+    "total_amount": 1117.68,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9447,
+    "order_timestamp": "2025-01-01T04:33:00",
+    "customer_id": 1017,
+    "product_id": 744,
+    "quantity": 5,
+    "total_amount": 1710.65,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9448,
+    "order_timestamp": "2025-01-01T23:31:00",
+    "customer_id": 1011,
+    "product_id": 626,
+    "quantity": 1,
+    "total_amount": 419.1,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9449,
+    "order_timestamp": "2025-01-01T22:23:00",
+    "customer_id": 1271,
+    "product_id": 836,
+    "quantity": 4,
+    "total_amount": 1370.76,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9450,
+    "order_timestamp": "2025-01-01T15:57:00",
+    "customer_id": 1151,
+    "product_id": 665,
+    "quantity": 1,
+    "total_amount": 22.29,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9451,
+    "order_timestamp": "2025-01-01T18:26:00",
+    "customer_id": 1415,
+    "product_id": 615,
+    "quantity": 4,
+    "total_amount": 680.92,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9452,
+    "order_timestamp": "2025-01-01T22:32:00",
+    "customer_id": 1004,
+    "product_id": 995,
+    "quantity": 1,
+    "total_amount": 140.9,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9453,
+    "order_timestamp": "2025-01-01T07:48:00",
+    "customer_id": 1246,
+    "product_id": 553,
+    "quantity": 2,
+    "total_amount": 720.1,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9454,
+    "order_timestamp": "2025-01-01T17:52:00",
+    "customer_id": 1132,
+    "product_id": 723,
+    "quantity": 2,
+    "total_amount": 303.54,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9455,
+    "order_timestamp": "2025-01-01T04:01:00",
+    "customer_id": 1469,
+    "product_id": 621,
+    "quantity": 3,
+    "total_amount": 267.96,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9456,
+    "order_timestamp": "2025-01-01T13:38:00",
+    "customer_id": 1008,
+    "product_id": 847,
+    "quantity": 2,
+    "total_amount": 52.84,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9457,
+    "order_timestamp": "2025-01-01T23:40:00",
+    "customer_id": 1439,
+    "product_id": 709,
+    "quantity": 2,
+    "total_amount": 155.08,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9458,
+    "order_timestamp": "2025-01-01T09:56:00",
+    "customer_id": 1094,
+    "product_id": 845,
+    "quantity": 4,
+    "total_amount": 1011.96,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9459,
+    "order_timestamp": "2025-01-01T11:48:00",
+    "customer_id": 1358,
+    "product_id": 884,
+    "quantity": 3,
+    "total_amount": 905.13,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9460,
+    "order_timestamp": "2025-01-01T07:53:00",
+    "customer_id": 1150,
+    "product_id": 987,
+    "quantity": 5,
+    "total_amount": 2311.15,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9461,
+    "order_timestamp": "2025-01-01T11:18:00",
+    "customer_id": 1032,
+    "product_id": 686,
+    "quantity": 4,
+    "total_amount": 1806.64,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9462,
+    "order_timestamp": "2025-01-01T22:59:00",
+    "customer_id": 1328,
+    "product_id": 534,
+    "quantity": 3,
+    "total_amount": 1392.66,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9463,
+    "order_timestamp": "2025-01-01T05:30:00",
+    "customer_id": 1354,
+    "product_id": 545,
+    "quantity": 1,
+    "total_amount": 495.25,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9464,
+    "order_timestamp": "2025-01-01T16:32:00",
+    "customer_id": 1246,
+    "product_id": 521,
+    "quantity": 5,
+    "total_amount": 1002.05,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9465,
+    "order_timestamp": "2025-01-01T17:02:00",
+    "customer_id": 1479,
+    "product_id": 876,
+    "quantity": 5,
+    "total_amount": 2382.65,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9466,
+    "order_timestamp": "2025-01-01T12:00:00",
+    "customer_id": 1145,
+    "product_id": 828,
+    "quantity": 3,
+    "total_amount": 1028.91,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9467,
+    "order_timestamp": "2025-01-01T11:48:00",
+    "customer_id": 1427,
+    "product_id": 545,
+    "quantity": 1,
+    "total_amount": 495.25,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9468,
+    "order_timestamp": "2025-01-01T00:12:00",
+    "customer_id": 1105,
+    "product_id": 680,
+    "quantity": 1,
+    "total_amount": 321.36,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9469,
+    "order_timestamp": "2025-01-01T06:55:00",
+    "customer_id": 1405,
+    "product_id": 653,
+    "quantity": 4,
+    "total_amount": 796.04,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9470,
+    "order_timestamp": "2025-01-01T12:15:00",
+    "customer_id": 1101,
+    "product_id": 742,
+    "quantity": 2,
+    "total_amount": 50.36,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9471,
+    "order_timestamp": "2025-01-01T00:15:00",
+    "customer_id": 1139,
+    "product_id": 522,
+    "quantity": 2,
+    "total_amount": 733.58,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9472,
+    "order_timestamp": "2025-01-01T12:48:00",
+    "customer_id": 1120,
+    "product_id": 573,
+    "quantity": 3,
+    "total_amount": 304.02,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9473,
+    "order_timestamp": "2025-01-01T16:53:00",
+    "customer_id": 1120,
+    "product_id": 906,
+    "quantity": 2,
+    "total_amount": 351.08,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9474,
+    "order_timestamp": "2025-01-01T08:58:00",
+    "customer_id": 1142,
+    "product_id": 919,
+    "quantity": 2,
+    "total_amount": 217.24,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9475,
+    "order_timestamp": "2025-01-01T01:14:00",
+    "customer_id": 1272,
+    "product_id": 899,
+    "quantity": 3,
+    "total_amount": 564.57,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9476,
+    "order_timestamp": "2025-01-01T07:46:00",
+    "customer_id": 1216,
+    "product_id": 844,
+    "quantity": 2,
+    "total_amount": 198.68,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9477,
+    "order_timestamp": "2025-01-01T12:30:00",
+    "customer_id": 1414,
+    "product_id": 531,
+    "quantity": 3,
+    "total_amount": 366.12,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9478,
+    "order_timestamp": "2025-01-01T00:58:00",
+    "customer_id": 1034,
+    "product_id": 819,
+    "quantity": 1,
+    "total_amount": 276.2,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9479,
+    "order_timestamp": "2025-01-01T08:14:00",
+    "customer_id": 1152,
+    "product_id": 939,
+    "quantity": 1,
+    "total_amount": 362.33,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9480,
+    "order_timestamp": "2025-01-01T21:28:00",
+    "customer_id": 1291,
+    "product_id": 951,
+    "quantity": 1,
+    "total_amount": 318.73,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9481,
+    "order_timestamp": "2025-01-01T02:31:00",
+    "customer_id": 1044,
+    "product_id": 747,
+    "quantity": 4,
+    "total_amount": 1214.12,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9482,
+    "order_timestamp": "2025-01-01T12:55:00",
+    "customer_id": 1071,
+    "product_id": 889,
+    "quantity": 1,
+    "total_amount": 312.01,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9483,
+    "order_timestamp": "2025-01-01T13:58:00",
+    "customer_id": 1243,
+    "product_id": 975,
+    "quantity": 5,
+    "total_amount": 75.4,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9484,
+    "order_timestamp": "2025-01-01T05:04:00",
+    "customer_id": 1130,
+    "product_id": 538,
+    "quantity": 3,
+    "total_amount": 324.42,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9485,
+    "order_timestamp": "2025-01-01T20:46:00",
+    "customer_id": 1250,
+    "product_id": 656,
+    "quantity": 3,
+    "total_amount": 158.91,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9486,
+    "order_timestamp": "2025-01-01T21:54:00",
+    "customer_id": 1432,
+    "product_id": 837,
+    "quantity": 5,
+    "total_amount": 1830.2,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9487,
+    "order_timestamp": "2025-01-01T18:22:00",
+    "customer_id": 1378,
+    "product_id": 691,
+    "quantity": 3,
+    "total_amount": 1381.11,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9488,
+    "order_timestamp": "2025-01-01T06:50:00",
+    "customer_id": 1143,
+    "product_id": 890,
+    "quantity": 1,
+    "total_amount": 205.84,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9489,
+    "order_timestamp": "2025-01-01T16:28:00",
+    "customer_id": 1177,
+    "product_id": 716,
+    "quantity": 1,
+    "total_amount": 22.87,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9490,
+    "order_timestamp": "2025-01-01T16:47:00",
+    "customer_id": 1402,
+    "product_id": 952,
+    "quantity": 4,
+    "total_amount": 1402.48,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9491,
+    "order_timestamp": "2025-01-01T20:08:00",
+    "customer_id": 1210,
+    "product_id": 804,
+    "quantity": 1,
+    "total_amount": 110.64,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9492,
+    "order_timestamp": "2025-01-01T04:05:00",
+    "customer_id": 1328,
+    "product_id": 855,
+    "quantity": 3,
+    "total_amount": 1195.41,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9493,
+    "order_timestamp": "2025-01-01T15:36:00",
+    "customer_id": 1185,
+    "product_id": 690,
+    "quantity": 4,
+    "total_amount": 305.48,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9494,
+    "order_timestamp": "2025-01-01T09:32:00",
+    "customer_id": 1210,
+    "product_id": 525,
+    "quantity": 3,
+    "total_amount": 345.15,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9495,
+    "order_timestamp": "2025-01-01T21:24:00",
+    "customer_id": 1012,
+    "product_id": 598,
+    "quantity": 2,
+    "total_amount": 556.16,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9496,
+    "order_timestamp": "2025-01-01T23:00:00",
+    "customer_id": 1019,
+    "product_id": 824,
+    "quantity": 1,
+    "total_amount": 287.0,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9497,
+    "order_timestamp": "2025-01-01T23:33:00",
+    "customer_id": 1351,
+    "product_id": 984,
+    "quantity": 5,
+    "total_amount": 1011.3,
+    "currency": "USD",
+    "status": "cancelled"
+  },
+  {
+    "order_id": 9498,
+    "order_timestamp": "2025-01-01T21:42:00",
+    "customer_id": 1024,
+    "product_id": 785,
+    "quantity": 2,
+    "total_amount": 182.1,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 9499,
+    "order_timestamp": "2025-01-01T18:17:00",
+    "customer_id": 1073,
+    "product_id": 593,
+    "quantity": 1,
+    "total_amount": 301.33,
+    "currency": "USD",
+    "status": "completed"
+  }
+]
