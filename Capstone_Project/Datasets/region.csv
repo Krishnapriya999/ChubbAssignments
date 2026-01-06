@@ -1,0 +1,183 @@
+State Code,State Name,State or Union Territory,District Code,District Name
+28,Andhra Pradesh,State,2801,Anantapur
+28,Andhra Pradesh,State,2802,Chittoor
+28,Andhra Pradesh,State,2803,East Godavari
+28,Andhra Pradesh,State,2804,Guntur
+28,Andhra Pradesh,State,2805,Kadapa
+28,Andhra Pradesh,State,2806,Krishna
+28,Andhra Pradesh,State,2807,Kurnool
+28,Andhra Pradesh,State,2808,Nellore
+28,Andhra Pradesh,State,2809,Prakasam
+28,Andhra Pradesh,State,2810,Srikakulam
+28,Andhra Pradesh,State,2811,Visakhapatnam
+28,Andhra Pradesh,State,2812,Vizianagaram
+28,Andhra Pradesh,State,2813,West Godavari
+12,Arunachal Pradesh,State,1201,Anjaw
+12,Arunachal Pradesh,State,1202,Changlang
+12,Arunachal Pradesh,State,1203,Dibang Valley
+12,Arunachal Pradesh,State,1204,East Kameng
+12,Arunachal Pradesh,State,1205,East Siang
+12,Arunachal Pradesh,State,1206,Kurung Kumey
+12,Arunachal Pradesh,State,1207,Lohit
+12,Arunachal Pradesh,State,1208,Lower Dibang Valley
+12,Arunachal Pradesh,State,1209,Lower Subansiri
+12,Arunachal Pradesh,State,1210,Papum Pare
+12,Arunachal Pradesh,State,1211,Tawang
+12,Arunachal Pradesh,State,1212,Tirap
+12,Arunachal Pradesh,State,1213,Upper Siang
+12,Arunachal Pradesh,State,1214,Upper Subansiri
+12,Arunachal Pradesh,State,1215,West Kameng
+12,Arunachal Pradesh,State,1216,West Siang
+18,Assam,State,1801,Baksa
+18,Assam,State,1802,Barpeta
+18,Assam,State,1803,Bongaigaon
+18,Assam,State,1804,Cachar
+18,Assam,State,1805,Chirang
+18,Assam,State,1806,Darrang
+18,Assam,State,1807,Dhemaji
+18,Assam,State,1808,Dhubri
+18,Assam,State,1809,Dibrugarh
+18,Assam,State,1810,Dima Hasao
+18,Assam,State,1811,Goalpara
+18,Assam,State,1812,Golaghat
+18,Assam,State,1813,Hailakandi
+18,Assam,State,1814,Jorhat
+18,Assam,State,1815,Kamrup
+18,Assam,State,1816,Kamrup Metropolitan
+18,Assam,State,1817,Karbi Anglong
+18,Assam,State,1818,Karimganj
+18,Assam,State,1819,Kokrajhar
+18,Assam,State,1820,Lakhimpur
+18,Assam,State,1821,Morigaon
+18,Assam,State,1822,Nagaon
+18,Assam,State,1823,Nalbari
+18,Assam,State,1824,Sivasagar
+18,Assam,State,1825,Sonitpur
+18,Assam,State,1826,Tinsukia
+18,Assam,State,1827,Udalguri
+10,Bihar,State,1001,Araria
+10,Bihar,State,1002,Arwal
+10,Bihar,State,1003,Aurangabad
+10,Bihar,State,1004,Banka
+10,Bihar,State,1005,Begusarai
+10,Bihar,State,1006,Bhagalpur
+10,Bihar,State,1007,Bhojpur
+10,Bihar,State,1008,Buxar
+10,Bihar,State,1009,Darbhanga
+10,Bihar,State,1010,East Champaran
+10,Bihar,State,1011,Gaya
+10,Bihar,State,1012,Gopalganj
+10,Bihar,State,1013,Jamui
+10,Bihar,State,1014,Jehanabad
+10,Bihar,State,1015,Kaimur
+10,Bihar,State,1016,Katihar
+10,Bihar,State,1017,Khagaria
+10,Bihar,State,1018,Kishanganj
+10,Bihar,State,1019,Lakhisarai
+10,Bihar,State,1020,Madhepura
+10,Bihar,State,1021,Madhubani
+10,Bihar,State,1022,Munger
+10,Bihar,State,1023,Muzaffarpur
+10,Bihar,State,1024,Nalanda
+10,Bihar,State,1025,Nawada
+10,Bihar,State,1026,Patna
+10,Bihar,State,1027,Purnia
+10,Bihar,State,1028,Rohtas
+10,Bihar,State,1029,Saharsa
+10,Bihar,State,1030,Samastipur
+10,Bihar,State,1031,Saran
+10,Bihar,State,1032,Sheikhpura
+10,Bihar,State,1033,Sheohar
+10,Bihar,State,1034,Sitamarhi
+10,Bihar,State,1035,Siwan
+10,Bihar,State,1036,Supaul
+10,Bihar,State,1037,Vaishali
+10,Bihar,State,1038,West Champaran
+27,Maharashtra,State,2701,Ahmednagar
+27,Maharashtra,State,2702,Akola
+27,Maharashtra,State,2703,Amravati
+27,Maharashtra,State,2704,Aurangabad
+27,Maharashtra,State,2705,Beed
+27,Maharashtra,State,2706,Bhandara
+27,Maharashtra,State,2707,Buldhana
+27,Maharashtra,State,2708,Chandrapur
+27,Maharashtra,State,2709,Dhule
+27,Maharashtra,State,2710,Gadchiroli
+27,Maharashtra,State,2711,Gondia
+27,Maharashtra,State,2712,Hingoli
+27,Maharashtra,State,2713,Jalgaon
+27,Maharashtra,State,2714,Jalna
+27,Maharashtra,State,2715,Kolhapur
+27,Maharashtra,State,2716,Latur
+27,Maharashtra,State,2717,Mumbai City
+27,Maharashtra,State,2718,Mumbai Suburban
+27,Maharashtra,State,2719,Nagpur
+27,Maharashtra,State,2720,Nanded
+27,Maharashtra,State,2721,Nandurbar
+27,Maharashtra,State,2722,Nashik
+27,Maharashtra,State,2723,Osmanabad
+27,Maharashtra,State,2724,Palghar
+27,Maharashtra,State,2725,Parbhani
+27,Maharashtra,State,2726,Pune
+27,Maharashtra,State,2727,Raigad
+27,Maharashtra,State,2728,Ratnagiri
+27,Maharashtra,State,2729,Sangli
+27,Maharashtra,State,2730,Satara
+27,Maharashtra,State,2731,Sindhudurg
+27,Maharashtra,State,2732,Solapur
+27,Maharashtra,State,2733,Thane
+27,Maharashtra,State,2734,Wardha
+27,Maharashtra,State,2735,Washim
+27,Maharashtra,State,2736,Yavatmal
+33,Tamil Nadu,State,3301,Ariyalur
+33,Tamil Nadu,State,3302,Chengalpattu
+33,Tamil Nadu,State,3303,Chennai
+33,Tamil Nadu,State,3304,Coimbatore
+33,Tamil Nadu,State,3305,Cuddalore
+33,Tamil Nadu,State,3306,Dharmapuri
+33,Tamil Nadu,State,3307,Dindigul
+33,Tamil Nadu,State,3308,Erode
+33,Tamil Nadu,State,3309,Kallakurichi
+33,Tamil Nadu,State,3310,Kanchipuram
+33,Tamil Nadu,State,3311,Kanyakumari
+33,Tamil Nadu,State,3312,Karur
+33,Tamil Nadu,State,3313,Krishnagiri
+33,Tamil Nadu,State,3314,Madurai
+33,Tamil Nadu,State,3315,Mayiladuthurai
+33,Tamil Nadu,State,3316,Nagapattinam
+33,Tamil Nadu,State,3317,Namakkal
+33,Tamil Nadu,State,3318,Nilgiris
+33,Tamil Nadu,State,3319,Perambalur
+33,Tamil Nadu,State,3320,Pudukkottai
+33,Tamil Nadu,State,3321,Ramanathapuram
+33,Tamil Nadu,State,3322,Ranipet
+33,Tamil Nadu,State,3323,Salem
+33,Tamil Nadu,State,3324,Sivaganga
+33,Tamil Nadu,State,3325,Tenkasi
+33,Tamil Nadu,State,3326,Thanjavur
+33,Tamil Nadu,State,3327,Theni
+33,Tamil Nadu,State,3328,Thoothukudi
+33,Tamil Nadu,State,3329,Tiruchirappalli
+33,Tamil Nadu,State,3330,Tirunelveli
+33,Tamil Nadu,State,3331,Tirupattur
+33,Tamil Nadu,State,3332,Tiruppur
+33,Tamil Nadu,State,3333,Tiruvallur
+33,Tamil Nadu,State,3334,Tiruvannamalai
+33,Tamil Nadu,State,3335,Tiruvarur
+33,Tamil Nadu,State,3336,Vellore
+33,Tamil Nadu,State,3337,Viluppuram
+33,Tamil Nadu,State,3338,Virudhunagar
+35,Andaman and Nicobar Islands,Union Territory,3501,Nicobar
+35,Andaman and Nicobar Islands,Union Territory,3502,North and Middle Andaman
+35,Andaman and Nicobar Islands,Union Territory,3503,South Andaman
+07,Delhi,Union Territory,0701,Central Delhi
+07,Delhi,Union Territory,0702,East Delhi
+07,Delhi,Union Territory,0703,New Delhi
+07,Delhi,Union Territory,0704,North Delhi
+07,Delhi,Union Territory,0705,North East Delhi
+07,Delhi,Union Territory,0706,North West Delhi
+07,Delhi,Union Territory,0707,Shahdara
+07,Delhi,Union Territory,0708,South Delhi
+07,Delhi,Union Territory,0709,South East Delhi
+07,Delhi,Union Territory,0710,South West Delhi
+07,Delhi,Union Territory,0711,West Delhi
